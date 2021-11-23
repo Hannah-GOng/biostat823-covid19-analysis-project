@@ -24,16 +24,16 @@ The dataset we use come from the several sources:
    - ML model for predicting death or discharge: [click here](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=89096912#89096912bcab02c187174a288dbcbf95d26179e8)
 
 ## Data science plan
-   - Exploratory data analysis includes dealing with the imbalanced data and missing data
-     (1) create the base dataset by deleting all the missing values directly
-     (2) create the imputed dataset by imputing all the categorical variables by their modes
-     (3) create the balanced dataset by oversampling the minority class
-     (4) create the dataset with both imputation and oversampling
-   - Visualize the distribution of vaccinations using `plotly`
-   - Visualize the estimated new cases using `plotly`
-   - Visualize the classification accuracy and results of different models using `plotly`
-   - Interpret the best model for each dataset above by using `shap`
-   - Deploy the dashboard on the website
+   - Exploratory data analysis includes dealing with the imbalanced data and missing data     
+     (1) create the base dataset by deleting all the missing values directly      
+     (2) create the imputed dataset by imputing all the categorical variables by their modes      
+     (3) create the balanced dataset by oversampling the minority class     
+     (4) create the dataset with both imputation and oversampling      
+   - Visualize the distribution of vaccinations using `plotly`        
+   - Visualize the estimated new cases using `plotly`      
+   - Visualize the classification accuracy and results of different models using `plotly`      
+   - Interpret the best model for each dataset above by using `shap`      
+   - Deploy the dashboard on the website         
  
  ## Roles, responsibilities and timed milestones
  By October 20th
