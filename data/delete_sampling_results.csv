@@ -1,0 +1,91 @@
+Model,Method,variable,value
+Ridge Classifier,base,Accuracy,0.9293
+K Neighbors Classifier,base,Accuracy,0.922
+Logistic Regression,base,Accuracy,0.9195
+Light Gradient Boosting Machine,base,Accuracy,0.9171
+Linear Discriminant Analysis,base,Accuracy,0.9122
+CatBoost Classifier,base,Accuracy,0.9122
+Ada Boost Classifier,base,Accuracy,0.9098
+Gradient Boosting Classifier,base,Accuracy,0.9098
+Random Forest Classifier,base,Accuracy,0.9073
+Extreme Gradient Boosting,base,Accuracy,0.9024
+Quadratic Discriminant Analysis,base,Accuracy,0.9
+Extra Trees Classifier,base,Accuracy,0.9
+SVM - Linear Kernel,base,Accuracy,0.8951
+Decision Tree Classifier,base,Accuracy,0.8878
+Naive Bayes,base,Accuracy,0.6878
+CatBoost Classifier,Imbalanced,Accuracy,0.9689
+Extra Trees Classifier,Imbalanced,Accuracy,0.9676
+Light Gradient Boosting Machine,Imbalanced,Accuracy,0.9676
+Gradient Boosting Classifier,Imbalanced,Accuracy,0.9662
+Random Forest Classifier,Imbalanced,Accuracy,0.9635
+Extreme Gradient Boosting,Imbalanced,Accuracy,0.9635
+Ridge Classifier,Imbalanced,Accuracy,0.9527
+Linear Discriminant Analysis,Imbalanced,Accuracy,0.9527
+Ada Boost Classifier,Imbalanced,Accuracy,0.9514
+Logistic Regression,Imbalanced,Accuracy,0.9473
+Decision Tree Classifier,Imbalanced,Accuracy,0.9473
+Quadratic Discriminant Analysis,Imbalanced,Accuracy,0.9446
+K Neighbors Classifier,Imbalanced,Accuracy,0.927
+SVM - Linear Kernel,Imbalanced,Accuracy,0.9108
+Naive Bayes,Imbalanced,Accuracy,0.8838
+Ridge Classifier,base,AUC,0.0
+K Neighbors Classifier,base,AUC,0.7587
+Logistic Regression,base,AUC,0.9143
+Light Gradient Boosting Machine,base,AUC,0.9189
+Linear Discriminant Analysis,base,AUC,0.91
+CatBoost Classifier,base,AUC,0.9234
+Ada Boost Classifier,base,AUC,0.9045
+Gradient Boosting Classifier,base,AUC,0.9196
+Random Forest Classifier,base,AUC,0.8145
+Extreme Gradient Boosting,base,AUC,0.9113
+Quadratic Discriminant Analysis,base,AUC,0.5
+Extra Trees Classifier,base,AUC,0.8822
+SVM - Linear Kernel,base,AUC,0.0
+Decision Tree Classifier,base,AUC,0.664
+Naive Bayes,base,AUC,0.8823
+CatBoost Classifier,Imbalanced,AUC,0.996
+Extra Trees Classifier,Imbalanced,AUC,0.9951
+Light Gradient Boosting Machine,Imbalanced,AUC,0.9958
+Gradient Boosting Classifier,Imbalanced,AUC,0.9947
+Random Forest Classifier,Imbalanced,AUC,0.9935
+Extreme Gradient Boosting,Imbalanced,AUC,0.9936
+Ridge Classifier,Imbalanced,AUC,0.0
+Linear Discriminant Analysis,Imbalanced,AUC,0.9933
+Ada Boost Classifier,Imbalanced,AUC,0.9905
+Logistic Regression,Imbalanced,AUC,0.9917
+Decision Tree Classifier,Imbalanced,AUC,0.9473
+Quadratic Discriminant Analysis,Imbalanced,AUC,0.9446
+K Neighbors Classifier,Imbalanced,AUC,0.9766
+SVM - Linear Kernel,Imbalanced,AUC,0.0
+Naive Bayes,Imbalanced,AUC,0.9783
+Ridge Classifier,base,F1,0.9617
+K Neighbors Classifier,base,F1,0.9581
+Logistic Regression,base,F1,0.9561
+Light Gradient Boosting Machine,base,F1,0.9547
+Linear Discriminant Analysis,base,F1,0.9513
+CatBoost Classifier,base,F1,0.9525
+Ada Boost Classifier,base,F1,0.9504
+Gradient Boosting Classifier,base,F1,0.9506
+Random Forest Classifier,base,F1,0.9495
+Extreme Gradient Boosting,base,F1,0.9465
+Quadratic Discriminant Analysis,base,F1,0.9474
+Extra Trees Classifier,base,F1,0.9457
+SVM - Linear Kernel,base,F1,0.9418
+Decision Tree Classifier,base,F1,0.938
+Naive Bayes,base,F1,0.7894
+CatBoost Classifier,Imbalanced,F1,0.969
+Extra Trees Classifier,Imbalanced,F1,0.9675
+Light Gradient Boosting Machine,Imbalanced,F1,0.9675
+Gradient Boosting Classifier,Imbalanced,F1,0.9665
+Random Forest Classifier,Imbalanced,F1,0.9625
+Extreme Gradient Boosting,Imbalanced,F1,0.9636
+Ridge Classifier,Imbalanced,F1,0.9542
+Linear Discriminant Analysis,Imbalanced,F1,0.9542
+Ada Boost Classifier,Imbalanced,F1,0.9514
+Logistic Regression,Imbalanced,F1,0.9472
+Decision Tree Classifier,Imbalanced,F1,0.9466
+Quadratic Discriminant Analysis,Imbalanced,F1,0.948
+K Neighbors Classifier,Imbalanced,F1,0.9229
+SVM - Linear Kernel,Imbalanced,F1,0.9091
+Naive Bayes,Imbalanced,F1,0.8707
