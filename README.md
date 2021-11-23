@@ -32,9 +32,11 @@ The dataset we use come from the several sources:
  ## Roles, responsibilities and timed milestones
  By October 20th
    - Form the team and discuss the potential topics and datasets (All)
+  
  By November 10th
    - Data preprocessing and exploratory data analysis (Yili, Jenny)
    - Create data visualization dashboard the vaccinations (Han)
+ 
  By Nov 24th
    - Create data visualization dashboard for the forecast cases (Han)
    - Create data visualization dashboard for the model performances and variable importance (Yili, Jenny)
