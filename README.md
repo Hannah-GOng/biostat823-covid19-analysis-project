@@ -2,8 +2,11 @@
 
 ## Team Members
 Gong Han (MIDS, Duke University)
+
 Junrong Lin (Biostatistics, Duke University)
+
 Yili Lin (Biostatistics, Duke University)
+
 Jenny Zhuo (Biostatistics, Duke University)
 
 ## The objective of the Project & Target Audience
@@ -17,7 +20,7 @@ Finally, they can go further to analyze that among the cases group, which factor
 
 ## Data Set
 The dataset we use come from the several sources:
-   - Vaccines data: [click here](https://data.cdc.gov/Vaccinations/COVID-19-Vaccinations-in-the-United-States-Jurisdi/unsk-b7fc）
+   - Vaccination data: [click here](https://data.cdc.gov/Vaccinations/COVID-19-Vaccinations-in-the-United-States-Jurisdi/unsk-b7fc)
    - Estimation data for cases: [click here](https://www.cdc.gov/coronavirus/2019-ncov/science/forecasting/forecasting-us.html)
    - ML model for predicting death or discharge: [click here](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=89096912#89096912bcab02c187174a288dbcbf95d26179e8)
 
