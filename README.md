@@ -32,7 +32,7 @@ The dataset we use come from the several sources:
    - Visualize the distribution of vaccinations using `plotly`        
    - Visualize the estimated new cases using `plotly`      
    - Visualize the classification accuracy and results of different models using `plotly`      
-   - Interpret the best model for each dataset above by using `shap`      
+   - Interpret the best model for each dataset mentioned above by using `shap`      
    - Deploy the dashboard on the website         
  
  ## Roles, responsibilities and timed milestones
