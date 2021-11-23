@@ -43,7 +43,7 @@ The dataset we use come from the several sources:
    - Data preprocessing and exploratory data analysis (Yili, Jenny)
    - Create visualization dashboard for the distribution of vaccinations (Han)
  
- By Nov 24th
+ By November 24th
    - Create visualization dashboard for the forecast of new cases (Han)
    - Create visualization dashboard for the model performances and model interpretation (Yili, Jenny)
    - Deploy the dashboard on website (Junrong)
