@@ -23,3 +23,21 @@ The dataset we use come from the several sources:
    - Estimation data for cases: [click here](https://www.cdc.gov/coronavirus/2019-ncov/science/forecasting/forecasting-us.html)
    - ML model for predicting death or discharge: [click here](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=89096912#89096912bcab02c187174a288dbcbf95d26179e8)
 
+## Data science plan
+   - Data visualization of the vaccination data and estimated cases data using `plotly`
+   - Apply four methods to deal with the imbalanced class and missing values in the clinical dataset (deleting all the missing values; impute the missing categorical value using mode; oversampling the minority class; oversampling + imputation)
+   - Visualize the classification results of different models using `plotly`
+   - Deploy the dashboard on the website.
+ 
+ ## Roles, responsibilities and timed milestones
+   - By October 20th
+       Form the team and discuss the potential topics and datasets (All)
+   - By November 10th
+       Data preprocessing and exploratory data analysis (Yili, Jenny)
+       Create data visualization dashboard the vaccinations (Han)
+   - By Nov 24th
+       Create data visualization dashboard for the forecast cases (Han)
+       Create data visualization dashboard for the model performances and variable importance (Yili, Jenny)
+       Deploy the dashboard on website (Junrong)
+       Finalize the repo (All)
+
