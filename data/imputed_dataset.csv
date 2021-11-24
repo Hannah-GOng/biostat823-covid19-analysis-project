@@ -1,0 +1,751 @@
+,last.status,age.splits,gender_concept_name,visit_concept_name,is_icu,invasive_vent_days,length_of_stay,Acute.Hepatic.Injury..during.hospitalization.,Acute.Kidney.Injury..during.hospitalization.,htn_v,dm_v,cad_v,ckd_v,malignancies_v,copd_v,other_lung_disease_v,antibiotics_use_v,days_prior_sx,smoking_status_v,cough_v,dyspnea_admission_v,nausea_v,vomiting_v,diarrhea_v,abdominal_pain_v,fever_v,temperature.over38,pulseOx.under90,Respiration.over24,BMI
+0,discharged,"(59,74]",FEMALE,Inpatient Visit,False,0,8,No,No,No,No,No,No,No,No,No,Yes,4,Never,Yes,Yes,Yes,No,Yes,No,Yes,0.0,0.0,0.0,Under 30
+1,discharged,"(59,74]",MALE,Inpatient Visit,False,0,11,No,No,Yes,No,Yes,No,No,No,No,No,10,Never,Yes,Yes,No,No,No,No,No,0.0,0.0,1.0,Under 30
+2,deceased,"(74,90]",MALE,Inpatient Visit,True,16,23,No,Yes,Yes,No,Yes,No,No,No,No,No,7,Never,Yes,Yes,No,No,No,No,Yes,0.0,0.0,1.0,Under 30
+3,discharged,"[18,59]",FEMALE,Inpatient Visit,False,0,10,No,No,No,No,No,No,No,No,Yes,Yes,1,Never,Yes,No,No,No,No,No,Yes,0.0,0.0,0.0,Under 30
+4,discharged,"[18,59]",MALE,Emergency Room Visit,False,0,1,No,No,No,No,No,No,Yes,No,No,No,1,Never,Yes,Yes,No,No,No,No,No,0.0,0.0,0.0,Under 30
+5,discharged,"(59,74]",FEMALE,Inpatient Visit,False,0,12,No,No,No,No,No,No,No,No,Yes,No,3,Never,Yes,Yes,No,No,No,No,No,0.0,0.0,0.0,Under 30
+6,discharged,"[18,59]",MALE,Inpatient Visit,True,40,63,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,10,Former,Yes,Yes,No,No,No,No,Yes,0.0,0.0,0.0,Under 30
+7,discharged,"(74,90]",FEMALE,Inpatient Visit,False,0,5,No,No,Yes,Yes,No,Yes,No,No,No,Yes,14,Never,Yes,No,Yes,Yes,Yes,No,No,0.0,0.0,0.0,Between 30 and 35
+8,deceased,"[18,59]",MALE,Inpatient Visit,True,23,26,Yes,Yes,Yes,Yes,No,No,No,No,No,No,4,Never,No,Yes,No,No,No,No,No,0.0,1.0,1.0,Under 30
+9,deceased,"(59,74]",MALE,Inpatient Visit,True,13,24,No,Yes,No,No,No,No,Yes,No,No,No,7,Never,Yes,Yes,No,No,No,No,Yes,0.0,0.0,0.0,Under 30
+10,deceased,"(74,90]",MALE,Inpatient Visit,True,7,10,No,No,Yes,Yes,No,No,No,No,No,Yes,10,Former,Yes,Yes,No,No,No,No,Yes,1.0,1.0,1.0,Under 30
+11,discharged,"(59,74]",FEMALE,Inpatient Visit,False,0,3,No,No,No,No,No,No,Yes,Yes,Yes,Yes,5,Never,Yes,Yes,No,No,Yes,No,Yes,0.0,0.0,0.0,Above 35
+12,discharged,"[18,59]",FEMALE,Inpatient Visit,False,0,16,No,Yes,Yes,No,No,No,No,No,No,No,7,Current,Yes,Yes,No,No,No,No,Yes,0.0,1.0,0.0,Above 35
+13,discharged,"[18,59]",MALE,Inpatient Visit,False,0,5,No,No,Yes,Yes,Yes,Yes,No,No,No,No,5,Former,Yes,Yes,No,No,No,No,Yes,0.0,0.0,0.0,Between 30 and 35
+14,discharged,"(59,74]",FEMALE,Emergency Room Visit,False,0,2,No,No,Yes,No,Yes,No,No,No,No,Yes,0,Never,Yes,No,No,No,Yes,Yes,No,0.0,0.0,0.0,Under 30
+15,discharged,"[18,59]",MALE,Emergency Room Visit,False,0,2,No,No,Yes,No,No,No,No,No,No,No,10,Never,No,No,Yes,Yes,Yes,No,Yes,1.0,0.0,0.0,Under 30
+16,discharged,"[18,59]",FEMALE,Inpatient Visit,False,0,9,No,No,No,No,No,No,No,No,No,Yes,7,Never,Yes,Yes,No,No,Yes,No,Yes,0.0,0.0,0.0,Between 30 and 35
+17,discharged,"(59,74]",MALE,Inpatient Visit,False,0,17,No,No,Yes,Yes,Yes,Yes,No,No,No,Yes,0,Never,No,No,No,No,No,Yes,No,0.0,0.0,0.0,Under 30
+18,discharged,"[18,59]",MALE,Inpatient Visit,False,0,2,No,No,No,No,Yes,No,No,No,No,No,5,Former,No,Yes,No,No,No,No,No,0.0,0.0,0.0,Between 30 and 35
+19,discharged,"(74,90]",FEMALE,Inpatient Visit,False,0,14,No,No,No,No,No,No,No,No,No,No,1,Former,Yes,Yes,No,No,Yes,No,Yes,1.0,0.0,0.0,Between 30 and 35
+20,deceased,"(59,74]",MALE,Inpatient Visit,False,0,3,No,No,Yes,No,No,No,No,Yes,Yes,No,3,Former,Yes,No,No,No,No,No,Yes,1.0,0.0,0.0,Between 30 and 35
+21,discharged,"(74,90]",FEMALE,Inpatient Visit,False,0,4,No,No,Yes,Yes,Yes,Yes,No,No,No,Yes,3,Never,Yes,No,No,No,No,No,No,0.0,0.0,0.0,Under 30
+22,deceased,"(74,90]",FEMALE,Inpatient Visit,False,0,13,No,No,Yes,Yes,No,No,No,No,No,No,2,Never,Yes,No,No,No,Yes,No,No,0.0,0.0,0.0,Under 30
+23,deceased,"(74,90]",FEMALE,Inpatient Visit,False,0,17,No,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,0,Former,No,Yes,No,No,No,No,No,0.0,0.0,1.0,Between 30 and 35
+24,discharged,"[18,59]",MALE,Inpatient Visit,True,40,80,No,No,Yes,No,No,No,No,No,No,Yes,6,Never,Yes,Yes,No,No,Yes,No,Yes,1.0,0.0,1.0,Above 35
+25,discharged,"(59,74]",MALE,Inpatient Visit,False,0,20,No,No,No,No,No,No,No,No,No,Yes,4,Never,Yes,No,No,No,No,No,Yes,1.0,0.0,0.0,Under 30
+26,discharged,"[18,59]",MALE,Inpatient Visit,True,40,69,No,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,4,Never,Yes,Yes,No,Yes,Yes,No,Yes,1.0,1.0,1.0,Under 30
+27,deceased,"(74,90]",MALE,Inpatient Visit,True,7,10,No,Yes,No,No,No,No,Yes,No,No,Yes,7,Former,Yes,Yes,No,No,No,No,Yes,0.0,0.0,1.0,Under 30
+28,discharged,"(59,74]",MALE,Inpatient Visit,False,0,3,No,No,Yes,No,No,No,Yes,No,No,No,0,Never,No,No,No,No,No,No,No,0.0,0.0,0.0,Under 30
+29,discharged,"[18,59]",MALE,Inpatient Visit,False,0,8,No,No,No,No,No,No,No,No,Yes,Yes,6,Never,Yes,No,No,No,No,No,Yes,0.0,0.0,1.0,Under 30
+30,discharged,"[18,59]",FEMALE,Inpatient Visit,False,0,7,No,No,No,No,No,No,No,No,No,Yes,1,Never,Yes,Yes,Yes,Yes,Yes,No,Yes,1.0,0.0,0.0,Above 35
+31,discharged,"[18,59]",FEMALE,Inpatient Visit,False,0,6,No,No,No,No,No,No,No,No,Yes,No,7,Never,Yes,Yes,Yes,No,No,No,Yes,1.0,0.0,0.0,Under 30
+32,discharged,"(59,74]",MALE,Inpatient Visit,False,0,16,No,No,No,No,No,No,No,No,No,Yes,6,Never,No,No,No,No,Yes,No,Yes,0.0,0.0,0.0,Between 30 and 35
+33,discharged,"(59,74]",FEMALE,Inpatient Visit,False,0,8,No,No,Yes,No,No,No,No,No,Yes,No,8,Never,Yes,Yes,No,No,No,No,Yes,1.0,0.0,1.0,Above 35
+34,discharged,"(59,74]",MALE,Inpatient Visit,False,0,12,No,No,No,No,No,No,No,No,No,No,3,Former,Yes,Yes,No,No,No,No,Yes,0.0,0.0,0.0,Between 30 and 35
+35,discharged,"(59,74]",FEMALE,Inpatient Visit,False,0,11,No,No,Yes,No,No,No,No,No,No,No,9,Former,Yes,Yes,No,No,Yes,No,Yes,0.0,1.0,1.0,Under 30
+36,discharged,"(59,74]",MALE,Inpatient Visit,True,10,24,No,No,No,Yes,No,No,No,No,No,Yes,21,Never,Yes,Yes,Yes,No,Yes,No,Yes,1.0,0.0,0.0,Under 30
+37,discharged,"[18,59]",MALE,Inpatient Visit,False,0,3,No,No,No,No,No,No,No,No,No,No,7,Never,Yes,Yes,Yes,No,No,No,Yes,0.0,0.0,0.0,Under 30
+38,discharged,"(59,74]",MALE,Inpatient Visit,False,0,4,No,No,Yes,Yes,Yes,No,No,No,Yes,No,3,Former,Yes,Yes,Yes,Yes,No,No,Yes,0.0,0.0,0.0,Between 30 and 35
+39,discharged,"(59,74]",MALE,Emergency Room Visit,False,0,2,No,No,No,No,No,No,No,No,No,No,10,Current,Yes,Yes,No,No,No,No,Yes,0.0,0.0,0.0,Above 35
+40,discharged,"[18,59]",FEMALE,Inpatient Visit,False,0,12,No,No,Yes,No,No,No,No,Yes,No,No,14,Former,Yes,Yes,Yes,No,Yes,No,Yes,0.0,0.0,1.0,Above 35
+41,discharged,"[18,59]",FEMALE,Inpatient Visit,False,0,8,No,No,Yes,Yes,No,No,No,No,Yes,No,1,Current,Yes,Yes,No,No,No,No,Yes,0.0,0.0,0.0,Between 30 and 35
+42,discharged,"[18,59]",MALE,Inpatient Visit,False,0,6,No,No,No,No,No,No,No,No,No,No,4,Never,Yes,Yes,Yes,No,Yes,No,Yes,1.0,0.0,0.0,Above 35
+43,discharged,"[18,59]",MALE,Inpatient Visit,True,0,4,No,No,Yes,Yes,Yes,No,No,No,Yes,No,0,Never,No,No,No,No,No,No,No,0.0,0.0,0.0,Above 35
+44,discharged,"(59,74]",FEMALE,Inpatient Visit,False,0,6,No,No,Yes,Yes,No,No,No,No,No,No,14,Former,Yes,No,No,No,No,No,Yes,0.0,0.0,0.0,Between 30 and 35
+45,discharged,"[18,59]",FEMALE,Emergency Room Visit,False,0,1,No,No,Yes,Yes,No,No,No,No,Yes,No,4,Never,Yes,Yes,No,No,No,No,Yes,0.0,0.0,0.0,Above 35
+46,discharged,"(59,74]",MALE,Inpatient Visit,False,0,3,No,No,No,No,No,No,No,No,No,No,7,Never,Yes,Yes,No,No,No,No,Yes,0.0,0.0,0.0,Under 30
+47,discharged,"(74,90]",FEMALE,Inpatient Visit,False,0,6,Yes,No,Yes,No,Yes,No,No,No,No,No,7,Former,Yes,Yes,No,No,Yes,No,Yes,0.0,0.0,0.0,Above 35
+48,discharged,"[18,59]",MALE,Inpatient Visit,False,0,9,No,No,No,No,No,No,No,No,No,No,7,Never,Yes,Yes,No,No,Yes,No,Yes,1.0,0.0,0.0,Under 30
+49,discharged,"[18,59]",FEMALE,Inpatient Visit,False,0,14,No,No,No,No,No,No,Yes,No,No,No,5,Never,Yes,Yes,Yes,No,No,No,Yes,0.0,0.0,0.0,Under 30
+50,discharged,"(59,74]",MALE,Inpatient Visit,False,0,4,No,No,Yes,No,No,No,No,No,No,Yes,14,Never,Yes,Yes,Yes,Yes,Yes,No,Yes,0.0,1.0,0.0,Between 30 and 35
+51,deceased,"(59,74]",MALE,Inpatient Visit,True,27,28,No,Yes,Yes,No,No,No,Yes,No,No,No,7,Never,Yes,Yes,No,No,Yes,Yes,Yes,1.0,0.0,0.0,Under 30
+52,discharged,"[18,59]",FEMALE,Inpatient Visit,False,0,6,No,No,Yes,Yes,No,No,No,No,Yes,No,8,Never,Yes,Yes,No,No,Yes,No,Yes,0.0,0.0,0.0,Above 35
+53,discharged,"[18,59]",FEMALE,Emergency Room Visit,False,0,1,No,No,Yes,No,No,No,No,No,No,No,0,Never,No,No,No,No,No,No,No,0.0,0.0,0.0,Under 30
+54,discharged,"[18,59]",MALE,Inpatient Visit,False,0,4,No,No,No,No,No,No,No,No,No,Yes,11,Never,Yes,Yes,Yes,No,No,No,Yes,1.0,0.0,0.0,Above 35
+55,deceased,"(59,74]",MALE,Inpatient Visit,True,2,8,No,No,Yes,Yes,No,No,No,No,No,No,5,Former,Yes,Yes,No,No,Yes,No,Yes,0.0,0.0,0.0,Under 30
+56,discharged,"[18,59]",MALE,Inpatient Visit,False,0,9,No,No,No,No,No,No,No,No,Yes,Yes,10,Never,No,Yes,Yes,No,No,No,Yes,0.0,1.0,0.0,Between 30 and 35
+57,discharged,"[18,59]",FEMALE,Inpatient Visit,False,0,13,No,Yes,No,No,No,No,No,No,No,No,10,Current,Yes,Yes,Yes,No,No,Yes,No,0.0,0.0,0.0,Under 30
+58,discharged,"(59,74]",FEMALE,Emergency Room Visit,False,0,2,No,No,Yes,No,No,No,Yes,No,No,No,7,Former,Yes,Yes,Yes,No,No,No,Yes,0.0,0.0,0.0,Above 35
+59,discharged,"[18,59]",MALE,Inpatient Visit,True,27,44,No,No,No,Yes,No,No,No,No,No,No,7,Former,Yes,Yes,No,No,No,No,Yes,0.0,1.0,1.0,Under 30
+60,discharged,"(59,74]",FEMALE,Inpatient Visit,False,0,7,No,No,No,No,No,No,No,No,No,No,3,Never,Yes,Yes,No,No,No,No,Yes,1.0,1.0,1.0,Above 35
+61,deceased,"[18,59]",MALE,Inpatient Visit,True,14,19,Yes,Yes,No,Yes,No,Yes,No,No,No,No,4,Never,Yes,Yes,No,No,No,No,Yes,0.0,0.0,0.0,Under 30
+62,discharged,"(59,74]",MALE,Inpatient Visit,True,12,26,No,No,No,Yes,No,No,No,No,No,No,14,Never,Yes,Yes,Yes,No,Yes,Yes,Yes,0.0,1.0,1.0,Under 30
+63,discharged,"(59,74]",MALE,Inpatient Visit,False,0,20,No,No,No,No,No,No,No,No,No,No,7,Never,No,Yes,No,No,No,No,Yes,0.0,0.0,0.0,Under 30
+64,discharged,"(59,74]",MALE,Inpatient Visit,False,0,4,No,No,No,No,No,No,No,Yes,No,Yes,7,Former,Yes,Yes,Yes,Yes,No,No,Yes,0.0,0.0,0.0,Between 30 and 35
+65,deceased,"(74,90]",MALE,Inpatient Visit,True,39,47,No,Yes,No,No,No,No,No,No,No,No,2,Never,Yes,Yes,No,No,Yes,No,Yes,1.0,0.0,0.0,Between 30 and 35
+66,discharged,"[18,59]",MALE,Inpatient Visit,False,0,5,No,No,No,No,No,No,No,No,No,Yes,10,Never,Yes,No,Yes,No,No,No,Yes,1.0,0.0,0.0,Under 30
+67,discharged,"(74,90]",FEMALE,Inpatient Visit,False,0,6,No,No,Yes,No,No,No,No,No,No,Yes,7,Never,Yes,Yes,No,No,No,No,Yes,0.0,0.0,0.0,Under 30
+68,discharged,"(74,90]",MALE,Inpatient Visit,True,0,17,No,Yes,Yes,Yes,Yes,No,No,No,No,No,21,Former,Yes,Yes,No,No,No,No,No,0.0,0.0,0.0,Under 30
+69,discharged,"(74,90]",FEMALE,Inpatient Visit,False,0,5,No,No,Yes,Yes,No,No,Yes,No,No,No,7,Never,No,Yes,No,No,Yes,No,Yes,0.0,0.0,0.0,Under 30
+70,discharged,"[18,59]",MALE,Inpatient Visit,False,0,3,No,No,No,No,No,No,No,No,No,No,7,Current,No,Yes,No,No,No,No,No,0.0,0.0,0.0,Above 35
+71,discharged,"[18,59]",FEMALE,Inpatient Visit,False,0,4,No,No,Yes,Yes,No,No,Yes,No,No,No,7,Former,Yes,Yes,Yes,Yes,No,No,Yes,1.0,0.0,0.0,Above 35
+72,discharged,"(59,74]",MALE,Inpatient Visit,False,0,30,No,Yes,No,No,No,No,Yes,No,No,No,2,Former,Yes,Yes,No,No,Yes,No,Yes,0.0,0.0,0.0,Between 30 and 35
+73,discharged,"[18,59]",MALE,Inpatient Visit,False,0,6,No,No,Yes,Yes,No,No,No,No,Yes,No,7,Never,No,No,No,No,No,Yes,Yes,0.0,0.0,0.0,Under 30
+74,discharged,"[18,59]",FEMALE,Emergency Room Visit,False,0,1,No,No,No,No,No,No,No,No,No,Yes,7,Never,No,No,No,No,No,No,No,0.0,0.0,0.0,Under 30
+75,discharged,"(59,74]",FEMALE,Inpatient Visit,False,0,7,No,No,Yes,Yes,Yes,No,No,No,Yes,Yes,10,Former,No,Yes,No,No,Yes,No,No,0.0,0.0,0.0,Between 30 and 35
+76,discharged,"[18,59]",FEMALE,Inpatient Visit,False,0,9,No,No,Yes,Yes,No,No,No,No,No,Yes,7,Never,Yes,Yes,Yes,Yes,Yes,No,Yes,1.0,1.0,1.0,Above 35
+77,discharged,"(74,90]",MALE,Inpatient Visit,False,0,5,No,No,No,No,No,No,No,No,Yes,No,7,Never,Yes,No,Yes,Yes,Yes,No,No,0.0,0.0,0.0,Under 30
+78,discharged,"(59,74]",FEMALE,Inpatient Visit,False,0,13,No,No,No,No,No,No,No,No,No,Yes,6,Never,Yes,Yes,Yes,Yes,Yes,Yes,Yes,0.0,0.0,0.0,Above 35
+79,discharged,"(59,74]",MALE,Inpatient Visit,False,0,7,No,No,Yes,No,Yes,No,No,Yes,Yes,Yes,14,Former,Yes,Yes,No,No,No,No,No,0.0,0.0,0.0,Above 35
+80,discharged,"[18,59]",MALE,Inpatient Visit,False,0,6,No,No,Yes,No,No,No,No,No,No,No,3,Never,Yes,Yes,Yes,No,Yes,No,Yes,0.0,1.0,0.0,Under 30
+81,discharged,"[18,59]",FEMALE,Inpatient Visit,False,0,15,No,No,No,No,No,No,No,No,No,No,3,Former,Yes,Yes,Yes,No,No,No,Yes,1.0,0.0,0.0,Under 30
+82,discharged,"[18,59]",FEMALE,Inpatient Visit,False,0,12,No,No,Yes,No,No,No,No,No,Yes,No,3,Never,Yes,Yes,Yes,Yes,Yes,No,Yes,0.0,0.0,1.0,Above 35
+83,discharged,"(59,74]",FEMALE,Inpatient Visit,False,0,26,No,Yes,Yes,Yes,No,Yes,No,No,Yes,No,4,Never,Yes,Yes,No,No,No,No,Yes,0.0,1.0,1.0,Above 35
+84,discharged,"[18,59]",MALE,Inpatient Visit,True,0,19,No,No,Yes,Yes,No,No,No,No,No,Yes,7,Never,No,Yes,Yes,No,Yes,No,Yes,0.0,0.0,0.0,Above 35
+85,discharged,"[18,59]",MALE,Inpatient Visit,True,26,39,No,Yes,Yes,No,No,No,No,No,Yes,Yes,5,Former,Yes,Yes,No,No,No,No,Yes,0.0,0.0,0.0,Above 35
+86,discharged,"(74,90]",MALE,Inpatient Visit,False,0,8,No,No,Yes,Yes,No,No,No,No,No,No,1,Never,No,Yes,No,No,No,No,Yes,0.0,0.0,1.0,Under 30
+87,discharged,"[18,59]",FEMALE,Inpatient Visit,False,0,15,No,No,Yes,No,No,No,No,No,No,No,1,Never,Yes,No,No,No,No,No,Yes,0.0,0.0,0.0,Under 30
+88,discharged,"(74,90]",FEMALE,Inpatient Visit,False,0,11,No,No,No,Yes,No,No,No,No,No,Yes,5,Never,Yes,No,Yes,No,No,No,Yes,1.0,0.0,0.0,Under 30
+89,discharged,"(74,90]",MALE,Inpatient Visit,False,0,5,No,No,Yes,No,No,No,No,No,No,No,5,Never,Yes,Yes,No,No,No,No,Yes,0.0,0.0,0.0,Under 30
+90,deceased,"(59,74]",FEMALE,Inpatient Visit,True,11,15,No,Yes,Yes,Yes,No,No,No,No,No,Yes,7,Never,Yes,Yes,No,No,No,Yes,Yes,0.0,0.0,0.0,Between 30 and 35
+91,discharged,"(59,74]",FEMALE,Inpatient Visit,False,0,16,No,No,No,No,No,No,No,No,No,Yes,7,Former,Yes,Yes,No,No,Yes,No,Yes,0.0,0.0,0.0,Between 30 and 35
+92,discharged,"(59,74]",FEMALE,Emergency Room Visit,False,0,2,No,No,Yes,Yes,No,No,No,No,No,No,1,Never,No,Yes,Yes,No,No,No,No,0.0,0.0,0.0,Above 35
+93,discharged,"(59,74]",FEMALE,Inpatient Visit,True,0,11,No,No,Yes,Yes,No,No,No,No,No,No,3,Never,Yes,Yes,No,No,Yes,No,Yes,1.0,1.0,1.0,Under 30
+94,discharged,"(74,90]",MALE,Emergency Room Visit,False,0,1,No,No,Yes,No,No,No,No,No,No,No,2,Never,No,No,No,No,No,No,Yes,0.0,0.0,0.0,Under 30
+95,discharged,"[18,59]",FEMALE,Inpatient Visit,True,40,95,No,Yes,Yes,No,No,No,No,No,No,No,5,Never,Yes,Yes,Yes,Yes,Yes,No,Yes,1.0,0.0,0.0,Under 30
+96,discharged,"[18,59]",FEMALE,Inpatient Visit,False,0,7,No,Yes,Yes,No,No,No,No,No,No,No,9,Never,Yes,Yes,Yes,No,Yes,No,Yes,1.0,0.0,1.0,Under 30
+97,discharged,"[18,59]",MALE,Inpatient Visit,False,0,5,No,No,No,No,No,No,No,No,No,Yes,7,Former,Yes,Yes,No,No,Yes,No,Yes,0.0,0.0,0.0,Under 30
+98,discharged,"(74,90]",FEMALE,Inpatient Visit,False,0,19,No,No,Yes,No,No,No,No,No,Yes,Yes,1,Never,No,No,No,No,No,No,Yes,1.0,0.0,0.0,Above 35
+99,discharged,"(74,90]",FEMALE,Inpatient Visit,False,0,19,No,Yes,Yes,No,Yes,No,No,Yes,Yes,No,11,Current,Yes,Yes,Yes,No,Yes,No,Yes,0.0,0.0,0.0,Between 30 and 35
+100,discharged,"(59,74]",MALE,Inpatient Visit,False,0,15,No,No,Yes,No,No,No,No,No,No,Yes,11,Former,Yes,Yes,No,No,No,No,Yes,1.0,1.0,1.0,Under 30
+101,deceased,"(59,74]",MALE,Inpatient Visit,False,0,20,No,Yes,Yes,Yes,No,No,No,No,No,No,1,Never,No,No,No,No,No,No,Yes,1.0,0.0,0.0,Under 30
+102,discharged,"[18,59]",MALE,Emergency Room Visit,False,0,2,No,No,No,No,No,No,Yes,No,No,No,1,Never,Yes,No,No,No,No,No,Yes,1.0,0.0,0.0,Between 30 and 35
+103,discharged,"[18,59]",MALE,Inpatient Visit,False,0,4,No,No,No,No,No,No,No,No,No,No,9,Never,Yes,No,Yes,No,No,No,Yes,0.0,0.0,0.0,Under 30
+104,discharged,"[18,59]",MALE,Inpatient Visit,False,0,4,No,No,No,No,No,No,No,No,No,No,9,Former,Yes,Yes,Yes,Yes,No,Yes,Yes,1.0,0.0,1.0,Under 30
+105,discharged,"(59,74]",FEMALE,Inpatient Visit,True,3,17,No,Yes,No,No,No,No,No,No,No,No,10,Never,Yes,No,No,No,No,No,Yes,0.0,1.0,0.0,Under 30
+106,discharged,"(74,90]",FEMALE,Inpatient Visit,False,0,2,No,No,No,No,No,No,No,No,No,No,14,Never,Yes,No,No,No,No,No,Yes,0.0,0.0,0.0,Under 30
+107,deceased,"(59,74]",MALE,Inpatient Visit,True,5,7,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,14,Former,Yes,Yes,No,No,No,No,No,0.0,1.0,1.0,Under 30
+108,discharged,"[18,59]",MALE,Inpatient Visit,False,0,11,Yes,No,No,No,No,No,Yes,No,No,No,19,Never,Yes,Yes,No,No,Yes,No,Yes,0.0,1.0,0.0,Under 30
+109,deceased,"(59,74]",FEMALE,Inpatient Visit,True,6,19,No,Yes,No,No,No,No,No,Yes,No,No,14,Former,Yes,Yes,Yes,Yes,Yes,No,No,0.0,0.0,1.0,Under 30
+110,deceased,"(59,74]",FEMALE,Inpatient Visit,False,0,5,No,Yes,Yes,Yes,No,Yes,No,No,No,No,2,Never,Yes,Yes,No,No,No,No,Yes,0.0,0.0,0.0,Above 35
+111,discharged,"[18,59]",MALE,Inpatient Visit,False,0,8,No,No,No,Yes,No,No,No,No,No,No,7,Never,No,Yes,Yes,No,Yes,Yes,Yes,1.0,0.0,0.0,Under 30
+112,discharged,"(59,74]",FEMALE,Inpatient Visit,False,0,10,No,No,Yes,No,No,No,No,No,No,No,8,Never,Yes,No,No,No,No,No,Yes,1.0,1.0,0.0,Under 30
+113,discharged,"(74,90]",FEMALE,Inpatient Visit,False,0,7,No,No,Yes,No,No,No,Yes,No,Yes,No,3,Never,Yes,Yes,Yes,Yes,No,No,No,0.0,0.0,0.0,Under 30
+114,discharged,"(59,74]",MALE,Inpatient Visit,False,0,16,No,No,Yes,Yes,Yes,No,No,No,No,Yes,6,Former,Yes,Yes,No,No,No,No,Yes,0.0,1.0,1.0,Between 30 and 35
+115,discharged,"(59,74]",FEMALE,Inpatient Visit,False,0,6,No,No,Yes,No,Yes,No,No,Yes,No,No,7,Former,Yes,Yes,No,No,No,No,Yes,0.0,0.0,0.0,Between 30 and 35
+116,discharged,"[18,59]",MALE,Inpatient Visit,False,0,5,No,No,No,No,No,No,No,No,No,No,5,Never,Yes,Yes,No,No,No,No,Yes,0.0,0.0,0.0,Under 30
+117,discharged,"(59,74]",MALE,Inpatient Visit,False,0,6,No,No,Yes,No,No,No,No,No,No,No,8,Never,Yes,No,Yes,No,Yes,Yes,Yes,0.0,0.0,0.0,Under 30
+118,discharged,"(59,74]",FEMALE,Inpatient Visit,False,0,8,No,No,Yes,No,No,No,No,No,Yes,Yes,7,Never,Yes,Yes,No,No,No,No,Yes,0.0,1.0,0.0,Above 35
+119,discharged,"(59,74]",MALE,Inpatient Visit,False,0,15,No,No,No,No,No,No,No,No,No,No,3,Current,Yes,Yes,No,No,No,No,Yes,0.0,1.0,1.0,Above 35
+120,deceased,"(59,74]",MALE,Inpatient Visit,True,38,40,No,Yes,Yes,No,Yes,No,No,No,No,No,5,Former,Yes,Yes,No,No,No,No,Yes,1.0,1.0,0.0,Under 30
+121,discharged,"[18,59]",MALE,Inpatient Visit,False,0,8,No,No,No,No,No,No,No,No,No,No,5,Never,Yes,Yes,No,No,No,No,Yes,1.0,0.0,0.0,Under 30
+122,discharged,"(74,90]",MALE,Inpatient Visit,False,0,3,No,No,Yes,No,Yes,Yes,Yes,Yes,No,No,18,Current,Yes,No,No,No,No,No,No,0.0,0.0,0.0,Under 30
+123,discharged,"(59,74]",FEMALE,Inpatient Visit,False,0,5,No,No,No,No,Yes,Yes,No,No,Yes,Yes,8,Former,Yes,Yes,No,No,No,No,Yes,0.0,0.0,0.0,Above 35
+124,discharged,"(59,74]",MALE,Inpatient Visit,False,0,2,No,No,Yes,No,No,No,No,Yes,No,No,7,Former,Yes,Yes,No,No,Yes,Yes,Yes,0.0,0.0,0.0,Between 30 and 35
+125,discharged,"(59,74]",MALE,Inpatient Visit,False,0,9,No,No,No,No,No,No,No,No,No,No,14,Never,Yes,Yes,Yes,No,No,No,Yes,0.0,0.0,0.0,Under 30
+126,discharged,"(74,90]",MALE,Inpatient Visit,True,0,17,No,No,No,No,No,No,No,No,No,No,5,Former,Yes,Yes,No,No,No,No,Yes,0.0,0.0,1.0,Under 30
+127,discharged,"[18,59]",MALE,Inpatient Visit,False,0,4,No,No,No,Yes,No,No,No,No,No,No,7,Never,Yes,Yes,No,No,No,No,Yes,0.0,0.0,0.0,Between 30 and 35
+128,discharged,"(59,74]",MALE,Inpatient Visit,False,0,6,No,No,Yes,No,No,No,No,No,Yes,No,12,Former,Yes,Yes,No,No,No,No,Yes,0.0,0.0,0.0,Under 30
+129,discharged,"[18,59]",MALE,Inpatient Visit,False,0,11,No,No,No,No,No,No,No,No,No,No,9,Never,Yes,Yes,No,No,No,No,Yes,0.0,0.0,1.0,Between 30 and 35
+130,discharged,"[18,59]",MALE,Inpatient Visit,False,0,3,No,No,No,Yes,No,No,No,No,No,No,4,Never,Yes,No,Yes,Yes,Yes,No,Yes,0.0,0.0,0.0,Above 35
+131,discharged,"(74,90]",MALE,Inpatient Visit,False,0,9,No,No,Yes,Yes,Yes,No,No,No,No,No,0,Former,No,No,No,No,No,No,No,0.0,0.0,0.0,Under 30
+132,discharged,"(59,74]",FEMALE,Inpatient Visit,False,0,10,No,No,No,No,No,No,No,No,No,No,7,Never,Yes,No,No,No,No,No,Yes,0.0,0.0,0.0,Under 30
+133,deceased,"(74,90]",FEMALE,Inpatient Visit,False,0,10,No,No,Yes,Yes,Yes,No,Yes,No,No,No,0,Never,No,No,No,No,No,No,Yes,0.0,0.0,1.0,Between 30 and 35
+134,discharged,"[18,59]",MALE,Inpatient Visit,False,0,6,No,No,No,No,No,No,No,No,No,Yes,7,Never,Yes,Yes,No,No,No,No,Yes,0.0,0.0,0.0,Between 30 and 35
+135,discharged,"(74,90]",MALE,Inpatient Visit,False,0,3,No,No,Yes,No,Yes,No,Yes,No,No,Yes,14,Former,Yes,Yes,No,No,No,No,No,1.0,0.0,0.0,Between 30 and 35
+136,deceased,"(59,74]",MALE,Inpatient Visit,True,22,25,No,Yes,No,No,No,No,No,No,No,No,5,Never,No,Yes,No,No,No,No,Yes,1.0,1.0,0.0,Between 30 and 35
+137,discharged,"[18,59]",MALE,Inpatient Visit,False,0,5,No,No,Yes,Yes,No,No,Yes,No,Yes,No,7,Former,Yes,Yes,No,No,No,No,Yes,1.0,0.0,0.0,Under 30
+138,discharged,"[18,59]",FEMALE,Inpatient Visit,False,0,7,No,No,No,No,No,No,No,No,No,No,9,Never,Yes,Yes,No,No,No,No,No,1.0,1.0,0.0,Under 30
+139,discharged,"(59,74]",FEMALE,Inpatient Visit,True,22,43,Yes,Yes,Yes,No,No,No,Yes,No,No,No,4,Former,No,No,No,No,Yes,No,No,1.0,0.0,0.0,Under 30
+140,discharged,"[18,59]",FEMALE,Emergency Room Visit,False,0,3,No,No,No,No,No,No,No,No,No,No,6,Never,Yes,Yes,No,No,No,No,Yes,1.0,0.0,0.0,Under 30
+141,discharged,"[18,59]",MALE,Inpatient Visit,True,11,61,No,Yes,Yes,No,No,No,No,No,No,No,7,Current,No,No,No,No,Yes,Yes,Yes,1.0,0.0,0.0,Under 30
+142,discharged,"(59,74]",MALE,Inpatient Visit,True,12,31,No,Yes,Yes,No,No,No,No,No,Yes,No,7,Never,Yes,No,No,No,No,No,Yes,0.0,0.0,0.0,Under 30
+143,discharged,"[18,59]",MALE,Inpatient Visit,False,0,14,No,Yes,Yes,No,No,Yes,No,No,No,Yes,10,Never,Yes,Yes,No,No,No,No,Yes,1.0,0.0,0.0,Under 30
+144,discharged,"(74,90]",FEMALE,Inpatient Visit,False,0,10,No,No,Yes,No,No,No,Yes,No,Yes,No,10,Former,Yes,No,Yes,No,Yes,Yes,Yes,0.0,0.0,0.0,Under 30
+145,discharged,"[18,59]",MALE,Inpatient Visit,False,0,8,No,No,No,No,No,No,No,No,No,No,6,Former,Yes,Yes,No,No,No,No,Yes,1.0,0.0,0.0,Above 35
+146,discharged,"(59,74]",MALE,Inpatient Visit,False,0,18,No,No,No,No,No,No,No,No,No,Yes,6,Never,Yes,Yes,No,No,No,No,Yes,1.0,0.0,1.0,Between 30 and 35
+147,discharged,"(59,74]",MALE,Inpatient Visit,False,0,3,No,No,Yes,Yes,No,No,No,No,No,Yes,2,Former,No,Yes,No,No,No,No,No,0.0,0.0,0.0,Above 35
+148,discharged,"(59,74]",MALE,Inpatient Visit,False,0,6,No,No,No,No,No,No,No,No,No,No,21,Never,Yes,Yes,No,No,No,No,Yes,1.0,0.0,0.0,Under 30
+149,deceased,"[18,59]",MALE,Inpatient Visit,True,0,3,No,Yes,Yes,No,Yes,No,No,Yes,Yes,No,2,Former,No,Yes,No,No,No,No,Yes,0.0,0.0,1.0,Above 35
+150,discharged,"(59,74]",FEMALE,Inpatient Visit,False,0,4,No,No,Yes,Yes,Yes,No,No,No,No,No,3,Former,No,No,Yes,Yes,No,No,No,0.0,0.0,0.0,Under 30
+151,discharged,"[18,59]",MALE,Inpatient Visit,True,16,47,No,Yes,Yes,No,No,No,No,No,Yes,No,7,Never,Yes,Yes,Yes,No,Yes,No,Yes,1.0,1.0,1.0,Above 35
+152,deceased,"(74,90]",MALE,Inpatient Visit,True,25,26,No,Yes,Yes,No,No,No,No,No,No,Yes,10,Former,Yes,Yes,No,No,No,No,Yes,1.0,0.0,0.0,Under 30
+153,discharged,"(74,90]",MALE,Inpatient Visit,False,0,7,No,No,Yes,No,No,No,No,No,No,No,14,Never,No,No,Yes,Yes,No,Yes,No,0.0,0.0,0.0,Under 30
+154,discharged,"[18,59]",FEMALE,Inpatient Visit,False,0,8,No,No,No,No,No,No,No,No,No,Yes,7,Never,Yes,No,Yes,Yes,No,No,Yes,1.0,0.0,0.0,Under 30
+155,discharged,"[18,59]",MALE,Inpatient Visit,True,20,41,Yes,Yes,Yes,No,No,Yes,No,No,No,No,5,Never,Yes,Yes,Yes,Yes,Yes,Yes,Yes,0.0,0.0,0.0,Under 30
+156,deceased,"(59,74]",MALE,Emergency Room Visit,False,0,1,No,No,Yes,No,Yes,No,Yes,No,No,Yes,8,Never,Yes,Yes,No,No,No,No,Yes,0.0,1.0,1.0,Under 30
+157,discharged,"[18,59]",FEMALE,Inpatient Visit,False,0,9,No,No,No,No,No,No,No,No,No,No,7,Never,Yes,Yes,Yes,Yes,Yes,No,Yes,1.0,0.0,1.0,Between 30 and 35
+158,deceased,"(74,90]",FEMALE,Inpatient Visit,False,0,3,No,No,Yes,No,Yes,No,No,Yes,No,No,0,Former,Yes,Yes,No,No,Yes,No,Yes,0.0,0.0,1.0,Above 35
+159,discharged,"(74,90]",MALE,Inpatient Visit,True,0,8,No,No,Yes,Yes,Yes,No,Yes,Yes,No,No,0,Former,Yes,Yes,No,No,No,No,No,0.0,0.0,0.0,Under 30
+160,discharged,"[18,59]",MALE,Inpatient Visit,True,40,75,No,Yes,No,No,No,No,No,No,No,No,7,Never,Yes,Yes,No,No,Yes,No,Yes,1.0,1.0,0.0,Under 30
+161,discharged,"[18,59]",MALE,Inpatient Visit,False,0,4,No,No,No,No,No,No,No,No,Yes,No,1,Former,Yes,No,No,No,No,No,No,1.0,0.0,0.0,Above 35
+162,discharged,"(74,90]",MALE,Inpatient Visit,False,0,6,No,No,Yes,Yes,No,No,No,No,No,No,3,Former,Yes,Yes,No,No,No,No,Yes,0.0,0.0,0.0,Under 30
+163,discharged,"(59,74]",FEMALE,Inpatient Visit,False,0,11,No,No,Yes,Yes,No,No,No,Yes,No,No,14,Former,Yes,Yes,Yes,Yes,Yes,No,Yes,0.0,1.0,0.0,Above 35
+164,discharged,"[18,59]",MALE,Inpatient Visit,False,0,5,No,No,No,No,No,No,No,No,No,No,15,Never,Yes,Yes,Yes,No,No,No,Yes,1.0,0.0,0.0,Under 30
+165,discharged,"[18,59]",FEMALE,Inpatient Visit,False,0,8,No,No,No,No,No,No,No,No,Yes,No,6,Never,Yes,Yes,No,No,No,No,Yes,0.0,0.0,0.0,Above 35
+166,discharged,"(74,90]",MALE,Inpatient Visit,False,0,10,No,Yes,Yes,No,Yes,Yes,Yes,No,No,No,1,Former,No,No,No,No,No,No,No,0.0,0.0,0.0,Under 30
+167,discharged,"[18,59]",MALE,Inpatient Visit,True,22,52,No,No,No,No,No,No,No,No,No,Yes,8,Former,Yes,Yes,Yes,No,Yes,No,Yes,0.0,0.0,0.0,Between 30 and 35
+168,discharged,"[18,59]",MALE,Inpatient Visit,False,0,2,No,No,Yes,No,No,No,No,No,No,No,30,Current,No,Yes,No,No,No,No,No,0.0,0.0,1.0,Above 35
+169,discharged,"[18,59]",MALE,Inpatient Visit,True,17,39,No,Yes,Yes,No,No,No,No,No,No,Yes,4,Never,Yes,Yes,No,No,Yes,No,Yes,1.0,0.0,0.0,Above 35
+170,discharged,"[18,59]",FEMALE,Inpatient Visit,False,0,10,No,No,No,No,No,No,No,No,No,No,8,Never,Yes,Yes,No,No,Yes,No,Yes,0.0,0.0,0.0,Between 30 and 35
+171,discharged,"(74,90]",MALE,Inpatient Visit,True,0,6,No,No,Yes,Yes,No,No,Yes,No,No,No,2,Never,Yes,Yes,No,No,No,No,Yes,0.0,0.0,1.0,Under 30
+172,discharged,"(59,74]",MALE,Inpatient Visit,False,0,11,No,No,Yes,No,No,No,No,No,No,No,7,Former,Yes,Yes,Yes,Yes,Yes,No,Yes,0.0,0.0,0.0,Under 30
+173,discharged,"(74,90]",MALE,Inpatient Visit,False,0,12,No,No,Yes,No,Yes,No,Yes,Yes,No,No,2,Former,Yes,Yes,No,No,Yes,No,No,0.0,0.0,0.0,Between 30 and 35
+174,discharged,"(74,90]",FEMALE,Inpatient Visit,False,0,6,No,No,Yes,Yes,No,Yes,No,No,No,Yes,7,Never,Yes,No,No,No,No,No,Yes,0.0,0.0,0.0,Under 30
+175,discharged,"[18,59]",MALE,Inpatient Visit,True,9,28,No,No,Yes,Yes,No,No,No,No,Yes,No,2,Never,Yes,Yes,No,No,No,No,Yes,1.0,0.0,1.0,Between 30 and 35
+176,discharged,"[18,59]",FEMALE,Inpatient Visit,False,0,6,No,No,No,No,No,No,No,No,No,No,11,Never,Yes,Yes,Yes,No,Yes,No,Yes,0.0,0.0,0.0,Under 30
+177,deceased,"[18,59]",MALE,Inpatient Visit,True,10,13,No,Yes,Yes,Yes,No,No,No,No,Yes,No,7,Never,Yes,Yes,No,No,No,No,Yes,0.0,1.0,1.0,Between 30 and 35
+178,discharged,"[18,59]",FEMALE,Inpatient Visit,False,0,3,No,No,Yes,Yes,No,No,No,No,No,No,7,Never,Yes,Yes,Yes,No,No,No,Yes,1.0,0.0,0.0,Above 35
+179,discharged,"[18,59]",MALE,Inpatient Visit,False,0,3,No,No,Yes,Yes,No,No,No,No,No,Yes,9,Never,Yes,Yes,No,No,No,No,Yes,0.0,0.0,1.0,Under 30
+180,discharged,"(59,74]",MALE,Inpatient Visit,False,0,36,No,No,No,No,No,No,No,No,No,Yes,5,Never,Yes,Yes,No,No,No,No,Yes,0.0,0.0,0.0,Between 30 and 35
+181,discharged,"[18,59]",FEMALE,Inpatient Visit,False,0,3,No,No,No,No,No,No,No,No,No,No,3,Never,No,No,No,No,No,No,Yes,1.0,0.0,0.0,Above 35
+182,discharged,"[18,59]",FEMALE,Inpatient Visit,True,14,25,No,Yes,No,No,No,No,No,No,No,Yes,5,Never,Yes,Yes,Yes,No,No,Yes,Yes,0.0,0.0,0.0,Above 35
+183,discharged,"(59,74]",MALE,Inpatient Visit,False,0,21,No,No,No,No,No,No,Yes,No,No,No,2,Former,No,No,No,No,No,No,No,0.0,0.0,1.0,Between 30 and 35
+184,deceased,"(59,74]",MALE,Inpatient Visit,True,40,44,No,Yes,Yes,Yes,Yes,No,No,No,No,Yes,7,Former,Yes,Yes,No,No,Yes,No,Yes,1.0,0.0,0.0,Between 30 and 35
+185,discharged,"[18,59]",FEMALE,Inpatient Visit,True,2,9,No,No,No,Yes,No,No,No,No,No,No,3,Never,Yes,Yes,Yes,No,Yes,No,No,0.0,0.0,0.0,Above 35
+186,discharged,"(74,90]",FEMALE,Inpatient Visit,False,0,6,No,No,No,No,No,No,No,No,No,Yes,7,Never,Yes,No,No,No,No,No,No,0.0,0.0,0.0,Under 30
+187,discharged,"[18,59]",FEMALE,Inpatient Visit,False,5,16,No,No,No,No,No,No,No,No,Yes,No,8,Never,Yes,Yes,No,No,No,No,Yes,0.0,0.0,0.0,Under 30
+188,discharged,"(59,74]",FEMALE,Inpatient Visit,False,0,3,No,No,Yes,Yes,No,No,No,No,Yes,No,13,Never,Yes,Yes,No,No,Yes,No,Yes,1.0,0.0,0.0,Between 30 and 35
+189,deceased,"(74,90]",FEMALE,Inpatient Visit,False,0,11,No,No,Yes,Yes,No,No,No,No,No,No,3,Never,Yes,No,No,No,Yes,No,Yes,0.0,0.0,0.0,Under 30
+190,discharged,"[18,59]",FEMALE,Inpatient Visit,False,0,13,No,No,No,No,No,No,No,No,No,No,7,Never,Yes,Yes,No,No,Yes,No,Yes,1.0,0.0,0.0,Under 30
+191,deceased,"(59,74]",FEMALE,Inpatient Visit,True,24,28,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,5,Former,Yes,Yes,Yes,Yes,No,No,Yes,0.0,0.0,0.0,Under 30
+192,discharged,"(59,74]",MALE,Inpatient Visit,False,0,7,No,No,No,No,No,No,No,No,No,No,10,Never,Yes,Yes,No,No,No,No,Yes,0.0,0.0,0.0,Under 30
+193,discharged,"[18,59]",MALE,Inpatient Visit,False,0,18,No,Yes,No,Yes,No,No,No,No,No,No,7,Former,Yes,Yes,No,No,No,No,Yes,1.0,0.0,0.0,Above 35
+194,discharged,"[18,59]",MALE,Inpatient Visit,False,0,11,No,Yes,Yes,No,No,Yes,No,No,No,No,10,Never,No,No,No,No,Yes,Yes,Yes,0.0,0.0,0.0,Under 30
+195,discharged,"[18,59]",FEMALE,Inpatient Visit,True,0,27,No,No,No,No,No,No,No,No,No,No,5,Never,Yes,No,No,No,No,No,Yes,0.0,0.0,0.0,Under 30
+196,discharged,"[18,59]",FEMALE,Inpatient Visit,False,0,11,No,No,No,No,No,No,No,No,No,No,7,Never,Yes,Yes,Yes,No,No,Yes,Yes,1.0,0.0,0.0,Under 30
+197,deceased,"[18,59]",MALE,Inpatient Visit,True,5,6,No,Yes,Yes,Yes,Yes,No,No,No,No,No,7,Never,Yes,Yes,No,No,No,No,Yes,0.0,1.0,1.0,Above 35
+198,discharged,"[18,59]",MALE,Inpatient Visit,False,0,7,No,No,No,No,No,No,No,No,Yes,No,2,Former,No,Yes,No,No,No,No,Yes,0.0,0.0,0.0,Between 30 and 35
+199,discharged,"(74,90]",FEMALE,Inpatient Visit,False,0,6,No,No,Yes,No,Yes,No,Yes,No,No,No,4,Never,Yes,No,No,No,No,No,Yes,0.0,0.0,0.0,Between 30 and 35
+200,discharged,"(59,74]",MALE,Inpatient Visit,True,0,5,No,No,No,No,No,No,No,No,No,Yes,4,Never,Yes,Yes,Yes,Yes,No,No,Yes,0.0,0.0,0.0,Under 30
+201,discharged,"[18,59]",MALE,Inpatient Visit,False,0,11,No,No,No,No,No,No,No,No,No,No,0,Never,No,No,No,No,No,No,No,0.0,0.0,0.0,Under 30
+202,discharged,"(59,74]",MALE,Inpatient Visit,False,0,3,No,No,Yes,No,No,No,Yes,No,No,Yes,5,Never,Yes,Yes,No,No,No,No,No,0.0,0.0,0.0,Above 35
+203,discharged,"(74,90]",FEMALE,Inpatient Visit,False,0,19,No,No,No,No,No,Yes,Yes,No,No,No,1,Former,Yes,Yes,Yes,Yes,No,No,Yes,1.0,0.0,0.0,Between 30 and 35
+204,discharged,"[18,59]",MALE,Inpatient Visit,False,0,7,No,No,Yes,No,No,Yes,No,No,No,No,7,Former,Yes,No,No,No,Yes,Yes,Yes,0.0,0.0,0.0,Under 30
+205,discharged,"[18,59]",FEMALE,Inpatient Visit,False,0,4,No,No,No,No,No,No,No,No,No,Yes,1,Never,No,No,No,No,No,No,Yes,1.0,0.0,0.0,Under 30
+206,discharged,"[18,59]",MALE,Inpatient Visit,True,15,28,No,No,No,Yes,Yes,No,No,No,No,No,7,Never,Yes,Yes,No,No,No,No,Yes,0.0,0.0,1.0,Under 30
+207,discharged,"[18,59]",MALE,Inpatient Visit,True,0,15,No,No,Yes,No,No,No,No,No,Yes,No,7,Never,Yes,Yes,No,No,Yes,No,Yes,0.0,0.0,0.0,Between 30 and 35
+208,discharged,"[18,59]",MALE,Inpatient Visit,True,11,26,No,Yes,Yes,Yes,No,No,No,No,No,No,3,Never,Yes,Yes,No,No,No,No,Yes,1.0,1.0,1.0,Under 30
+209,discharged,"[18,59]",MALE,Inpatient Visit,False,0,7,No,No,No,No,No,No,No,No,No,No,10,Never,Yes,Yes,Yes,No,Yes,No,Yes,0.0,1.0,0.0,Under 30
+210,discharged,"[18,59]",FEMALE,Inpatient Visit,False,0,6,No,No,No,No,No,No,No,No,No,No,4,Never,Yes,Yes,Yes,No,No,Yes,Yes,1.0,0.0,0.0,Between 30 and 35
+211,discharged,"[18,59]",MALE,Inpatient Visit,True,11,22,No,No,Yes,No,No,No,No,No,Yes,Yes,5,Never,Yes,Yes,No,No,Yes,No,Yes,0.0,0.0,1.0,Above 35
+212,discharged,"[18,59]",FEMALE,Inpatient Visit,False,0,5,No,No,No,No,No,Yes,No,No,No,No,3,Never,Yes,No,No,No,No,Yes,Yes,0.0,0.0,0.0,Between 30 and 35
+213,discharged,"(74,90]",MALE,Inpatient Visit,False,0,9,No,Yes,Yes,Yes,Yes,No,No,No,No,No,12,Never,Yes,Yes,No,No,No,No,No,0.0,0.0,0.0,Under 30
+214,deceased,"(59,74]",MALE,Inpatient Visit,True,15,19,Yes,Yes,No,No,No,No,No,No,No,No,5,Never,Yes,Yes,Yes,Yes,Yes,No,Yes,1.0,1.0,1.0,Under 30
+215,discharged,"[18,59]",FEMALE,Inpatient Visit,True,0,3,No,No,No,No,No,No,No,No,No,Yes,16,Never,No,Yes,No,No,No,No,Yes,0.0,0.0,0.0,Between 30 and 35
+216,discharged,"(74,90]",FEMALE,Inpatient Visit,False,0,8,No,No,Yes,Yes,Yes,Yes,Yes,No,No,No,7,Never,Yes,No,Yes,No,Yes,No,Yes,0.0,0.0,0.0,Above 35
+217,discharged,"[18,59]",FEMALE,Inpatient Visit,False,0,9,No,No,No,No,No,No,No,No,No,No,9,Never,Yes,Yes,No,No,Yes,No,Yes,0.0,0.0,1.0,Above 35
+218,discharged,"[18,59]",MALE,Inpatient Visit,False,0,3,No,No,No,No,No,No,No,No,Yes,Yes,7,Former,Yes,No,No,No,Yes,No,Yes,0.0,0.0,0.0,Above 35
+219,discharged,"[18,59]",FEMALE,Inpatient Visit,False,0,8,No,No,No,Yes,No,No,No,No,No,No,7,Never,Yes,No,Yes,No,Yes,Yes,Yes,0.0,0.0,0.0,Above 35
+220,discharged,"(59,74]",MALE,Emergency Room Visit,False,0,1,No,No,No,No,No,No,No,No,No,Yes,12,Former,Yes,Yes,No,No,Yes,No,Yes,0.0,0.0,0.0,Under 30
+221,discharged,"(74,90]",MALE,Inpatient Visit,False,0,8,No,No,Yes,No,Yes,No,No,No,No,No,7,Never,No,No,No,No,No,No,No,1.0,0.0,0.0,Under 30
+222,discharged,"(74,90]",FEMALE,Emergency Room Visit,False,0,2,No,No,No,No,No,No,No,No,No,No,7,Former,No,No,No,No,No,No,No,0.0,0.0,0.0,Under 30
+223,discharged,"[18,59]",FEMALE,Inpatient Visit,False,0,5,No,No,No,Yes,No,No,No,No,No,No,5,Never,Yes,No,No,No,No,No,No,0.0,0.0,0.0,Under 30
+224,discharged,"(74,90]",FEMALE,Inpatient Visit,False,0,8,No,No,No,No,No,No,Yes,No,No,No,7,Never,No,No,No,No,No,No,No,0.0,1.0,0.0,Under 30
+225,discharged,"[18,59]",MALE,Inpatient Visit,True,10,25,No,Yes,Yes,No,No,No,No,No,No,No,9,Never,Yes,Yes,Yes,Yes,No,No,Yes,0.0,0.0,0.0,Between 30 and 35
+226,discharged,"[18,59]",FEMALE,Inpatient Visit,False,0,8,No,No,No,No,No,No,No,No,Yes,Yes,0,Current,No,No,No,No,No,No,No,0.0,0.0,0.0,Under 30
+227,discharged,"(59,74]",FEMALE,Inpatient Visit,False,0,6,No,No,No,No,No,No,No,No,No,Yes,3,Never,No,Yes,No,No,No,No,Yes,0.0,1.0,1.0,Under 30
+228,discharged,"[18,59]",FEMALE,Inpatient Visit,False,0,3,No,No,No,No,No,No,No,No,No,No,0,Never,Yes,No,No,No,No,No,No,0.0,0.0,0.0,Above 35
+229,deceased,"(59,74]",FEMALE,Inpatient Visit,True,7,16,No,Yes,Yes,Yes,No,No,Yes,No,No,No,4,Never,No,No,No,Yes,No,No,No,0.0,1.0,0.0,Under 30
+230,discharged,"(74,90]",FEMALE,Inpatient Visit,True,15,31,No,No,Yes,No,No,No,No,Yes,Yes,Yes,14,Former,Yes,Yes,No,No,Yes,No,Yes,0.0,0.0,0.0,Under 30
+231,discharged,"[18,59]",MALE,Inpatient Visit,False,0,6,No,Yes,Yes,No,No,Yes,No,No,No,Yes,7,Never,No,No,Yes,Yes,Yes,No,Yes,0.0,0.0,0.0,Under 30
+232,discharged,"[18,59]",FEMALE,Inpatient Visit,False,0,6,No,No,No,No,No,No,No,No,No,No,5,Never,Yes,Yes,No,No,No,No,Yes,0.0,0.0,0.0,Between 30 and 35
+233,discharged,"[18,59]",FEMALE,Inpatient Visit,False,0,9,No,No,No,No,No,No,No,No,No,Yes,3,Never,Yes,Yes,No,No,No,No,Yes,1.0,1.0,1.0,Between 30 and 35
+234,discharged,"(59,74]",MALE,Inpatient Visit,False,0,5,No,No,Yes,No,No,No,No,Yes,No,No,1,Former,No,No,No,No,No,Yes,Yes,0.0,0.0,0.0,Under 30
+235,discharged,"[18,59]",FEMALE,Inpatient Visit,True,23,31,No,No,Yes,Yes,No,No,No,No,No,Yes,7,Never,Yes,Yes,No,No,No,No,Yes,1.0,1.0,0.0,Above 35
+236,deceased,"(74,90]",MALE,Inpatient Visit,False,0,23,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,2,Former,Yes,Yes,No,No,No,No,Yes,1.0,0.0,0.0,Between 30 and 35
+237,discharged,"[18,59]",MALE,Inpatient Visit,False,0,22,No,Yes,Yes,No,No,No,No,No,Yes,Yes,7,Never,Yes,Yes,Yes,No,Yes,Yes,Yes,1.0,0.0,0.0,Above 35
+238,deceased,"(59,74]",MALE,Inpatient Visit,True,9,15,No,Yes,Yes,Yes,No,No,No,No,No,No,10,Never,Yes,Yes,No,No,No,No,Yes,0.0,1.0,1.0,Under 30
+239,discharged,"(59,74]",MALE,Inpatient Visit,False,0,5,No,No,No,No,No,No,Yes,No,No,Yes,7,Never,Yes,Yes,Yes,No,No,No,Yes,0.0,0.0,0.0,Under 30
+240,discharged,"[18,59]",MALE,Inpatient Visit,False,0,6,No,No,No,No,No,No,No,No,No,No,5,Never,Yes,Yes,Yes,Yes,Yes,No,Yes,0.0,0.0,0.0,Above 35
+241,deceased,"(74,90]",MALE,Inpatient Visit,False,0,5,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,7,Never,No,Yes,No,No,No,No,No,0.0,0.0,0.0,Under 30
+242,deceased,"(59,74]",MALE,Inpatient Visit,True,13,26,No,Yes,Yes,Yes,Yes,No,No,No,No,No,14,Former,No,Yes,No,No,No,No,Yes,1.0,1.0,1.0,Above 35
+243,discharged,"(59,74]",MALE,Inpatient Visit,False,0,9,No,No,Yes,Yes,No,No,No,No,No,No,6,Never,No,No,Yes,No,Yes,Yes,Yes,0.0,0.0,0.0,Between 30 and 35
+244,discharged,"[18,59]",FEMALE,Inpatient Visit,False,0,16,No,No,No,No,No,No,No,No,No,No,5,Never,Yes,Yes,No,No,Yes,No,Yes,0.0,0.0,1.0,Between 30 and 35
+245,deceased,"(59,74]",MALE,Inpatient Visit,True,33,37,Yes,Yes,Yes,Yes,No,No,No,No,No,No,7,Never,Yes,Yes,No,No,Yes,Yes,Yes,1.0,1.0,1.0,Under 30
+246,discharged,"[18,59]",MALE,Inpatient Visit,False,0,4,No,No,No,No,No,No,No,No,No,No,5,Never,Yes,Yes,No,No,No,No,Yes,0.0,0.0,0.0,Between 30 and 35
+247,discharged,"(74,90]",MALE,Inpatient Visit,False,0,9,No,No,Yes,No,No,No,No,Yes,No,No,3,Former,Yes,No,No,No,No,No,No,0.0,0.0,0.0,Under 30
+248,discharged,"(59,74]",MALE,Inpatient Visit,False,12,14,No,No,Yes,No,Yes,No,No,No,Yes,No,3,Never,No,No,No,Yes,Yes,No,Yes,0.0,0.0,0.0,Under 30
+249,discharged,"(74,90]",MALE,Inpatient Visit,False,0,7,No,Yes,No,No,Yes,Yes,No,No,No,No,1,Never,No,No,No,No,No,No,No,0.0,0.0,0.0,Under 30
+250,discharged,"(59,74]",MALE,Inpatient Visit,True,6,20,No,No,Yes,No,No,No,No,No,No,No,4,Never,Yes,Yes,No,No,No,No,Yes,0.0,1.0,0.0,Between 30 and 35
+251,discharged,"[18,59]",FEMALE,Inpatient Visit,False,0,4,No,No,No,No,No,No,No,No,No,Yes,7,Never,Yes,Yes,No,No,No,No,No,0.0,0.0,1.0,Above 35
+252,discharged,"[18,59]",FEMALE,Inpatient Visit,False,8,21,No,No,No,No,No,No,Yes,No,No,No,7,Never,Yes,Yes,Yes,No,Yes,No,Yes,0.0,0.0,0.0,Between 30 and 35
+253,discharged,"(59,74]",FEMALE,Inpatient Visit,False,0,6,No,No,No,Yes,No,No,No,No,No,No,3,Never,Yes,No,No,No,No,No,Yes,0.0,1.0,0.0,Under 30
+254,discharged,"[18,59]",FEMALE,Emergency Room Visit,False,0,5,No,No,Yes,Yes,No,No,No,No,No,No,2,Never,Yes,Yes,Yes,No,No,No,No,0.0,0.0,0.0,Under 30
+255,discharged,"[18,59]",MALE,Inpatient Visit,False,0,5,No,No,No,No,No,No,No,No,No,No,8,Never,Yes,Yes,No,No,Yes,No,Yes,0.0,0.0,0.0,Under 30
+256,discharged,"(74,90]",MALE,Emergency Room Visit,False,0,1,No,No,Yes,No,No,No,No,No,No,No,5,Former,Yes,Yes,No,No,Yes,No,Yes,0.0,0.0,0.0,Under 30
+257,discharged,"[18,59]",FEMALE,Inpatient Visit,False,0,5,No,No,Yes,No,No,No,No,No,No,No,8,Never,Yes,Yes,Yes,No,Yes,Yes,Yes,0.0,1.0,1.0,Above 35
+258,discharged,"(59,74]",FEMALE,Emergency Room Visit,False,0,1,No,No,Yes,No,No,No,No,No,No,No,6,Former,Yes,Yes,No,No,No,No,Yes,0.0,0.0,0.0,Under 30
+259,discharged,"(74,90]",MALE,Inpatient Visit,False,0,6,No,No,Yes,No,No,No,Yes,Yes,No,No,6,Never,Yes,No,No,No,Yes,No,No,0.0,0.0,0.0,Under 30
+260,discharged,"[18,59]",FEMALE,Inpatient Visit,True,6,20,No,No,No,No,No,No,No,No,Yes,Yes,18,Former,Yes,Yes,No,No,Yes,No,Yes,0.0,0.0,0.0,Under 30
+261,discharged,"[18,59]",MALE,Inpatient Visit,False,0,7,No,No,No,No,No,No,No,No,No,No,4,Never,Yes,Yes,No,No,No,No,Yes,1.0,0.0,0.0,Under 30
+262,discharged,"(59,74]",FEMALE,Inpatient Visit,False,0,12,No,No,No,No,No,No,Yes,No,No,Yes,17,Former,Yes,Yes,No,No,No,No,Yes,0.0,1.0,1.0,Above 35
+263,discharged,"[18,59]",FEMALE,Inpatient Visit,False,0,7,No,No,No,No,No,No,No,No,No,No,3,Former,Yes,Yes,Yes,Yes,Yes,No,Yes,1.0,0.0,0.0,Above 35
+264,discharged,"(59,74]",MALE,Emergency Room Visit,False,0,3,No,No,Yes,Yes,No,No,No,No,Yes,No,8,Never,Yes,Yes,No,No,No,No,Yes,0.0,0.0,0.0,Between 30 and 35
+265,discharged,"[18,59]",FEMALE,Inpatient Visit,False,0,5,No,No,Yes,Yes,No,Yes,No,No,No,Yes,4,Former,Yes,No,Yes,Yes,Yes,No,Yes,0.0,0.0,0.0,Between 30 and 35
+266,discharged,"(59,74]",MALE,Inpatient Visit,False,0,9,No,No,Yes,No,Yes,No,No,Yes,No,Yes,7,Former,No,Yes,No,No,Yes,No,No,0.0,0.0,0.0,Under 30
+267,discharged,"[18,59]",FEMALE,Emergency Room Visit,False,0,1,No,No,Yes,No,No,No,No,No,No,No,1,Never,Yes,No,No,No,No,No,Yes,0.0,0.0,0.0,Under 30
+268,discharged,"(74,90]",FEMALE,Inpatient Visit,False,0,5,No,Yes,Yes,No,Yes,Yes,No,No,No,No,4,Never,Yes,No,No,No,Yes,No,Yes,0.0,0.0,0.0,Under 30
+269,discharged,"[18,59]",MALE,Inpatient Visit,False,0,6,No,No,No,No,No,No,No,No,No,No,4,Never,Yes,Yes,Yes,No,Yes,No,Yes,1.0,0.0,0.0,Under 30
+270,discharged,"[18,59]",FEMALE,Inpatient Visit,False,0,3,No,No,No,No,No,No,No,No,No,No,7,Never,Yes,Yes,No,No,No,No,Yes,0.0,0.0,1.0,Under 30
+271,discharged,"[18,59]",MALE,Inpatient Visit,False,0,14,No,Yes,Yes,No,No,No,No,No,No,Yes,5,Never,Yes,Yes,No,No,No,No,Yes,0.0,0.0,0.0,Above 35
+272,deceased,"(59,74]",MALE,Inpatient Visit,True,13,14,No,Yes,Yes,Yes,No,No,Yes,No,No,No,5,Former,Yes,No,No,No,No,No,Yes,0.0,0.0,0.0,Under 30
+273,discharged,"[18,59]",MALE,Inpatient Visit,True,10,22,No,No,Yes,No,No,No,No,No,No,Yes,14,Never,Yes,Yes,No,No,No,No,Yes,0.0,0.0,1.0,Above 35
+274,discharged,"[18,59]",MALE,Inpatient Visit,True,10,31,Yes,No,No,No,No,No,No,No,No,No,5,Never,Yes,Yes,No,No,Yes,No,Yes,0.0,0.0,0.0,Between 30 and 35
+275,discharged,"[18,59]",FEMALE,Inpatient Visit,False,0,5,No,No,Yes,No,No,No,No,No,No,No,9,Never,Yes,Yes,No,No,No,No,Yes,0.0,0.0,0.0,Between 30 and 35
+276,discharged,"[18,59]",FEMALE,Emergency Room Visit,False,0,1,No,No,No,No,No,No,No,No,Yes,No,1,Never,No,Yes,No,No,No,No,Yes,1.0,0.0,0.0,Under 30
+277,discharged,"[18,59]",FEMALE,Inpatient Visit,False,0,12,No,No,No,Yes,No,No,No,No,No,No,14,Never,No,Yes,No,No,No,No,Yes,0.0,1.0,1.0,Under 30
+278,discharged,"[18,59]",MALE,Inpatient Visit,True,0,42,No,No,Yes,No,No,No,No,No,No,No,2,Never,Yes,Yes,No,No,No,No,Yes,1.0,1.0,1.0,Under 30
+279,discharged,"[18,59]",FEMALE,Inpatient Visit,False,0,9,No,No,No,No,No,No,No,No,Yes,Yes,14,Never,Yes,Yes,No,No,No,No,Yes,0.0,0.0,1.0,Under 30
+280,discharged,"[18,59]",FEMALE,Inpatient Visit,True,11,22,No,No,No,No,No,No,No,No,No,No,14,Never,Yes,Yes,Yes,Yes,No,Yes,Yes,1.0,0.0,0.0,Under 30
+281,discharged,"(59,74]",MALE,Inpatient Visit,False,0,12,No,No,No,No,No,No,No,No,No,Yes,14,Never,Yes,Yes,No,No,No,No,Yes,1.0,1.0,1.0,Under 30
+282,discharged,"[18,59]",FEMALE,Emergency Room Visit,False,0,1,No,No,No,No,No,No,No,No,No,No,3,Never,Yes,Yes,No,No,No,No,Yes,1.0,0.0,0.0,Under 30
+283,discharged,"[18,59]",FEMALE,Inpatient Visit,False,0,7,No,No,No,No,No,No,No,No,No,Yes,5,Never,Yes,Yes,Yes,No,No,No,Yes,0.0,0.0,1.0,Under 30
+284,discharged,"(59,74]",MALE,Inpatient Visit,False,0,14,No,Yes,Yes,Yes,No,Yes,No,No,No,No,3,Never,No,No,No,No,No,No,No,0.0,0.0,0.0,Under 30
+285,deceased,"(59,74]",MALE,Inpatient Visit,True,17,20,No,Yes,Yes,No,No,No,No,No,No,Yes,10,Former,Yes,Yes,Yes,Yes,Yes,No,Yes,0.0,0.0,0.0,Above 35
+286,discharged,"[18,59]",FEMALE,Inpatient Visit,False,0,9,No,No,No,No,No,No,No,No,No,No,3,Never,Yes,No,No,No,No,No,Yes,1.0,0.0,0.0,Under 30
+287,deceased,"(59,74]",MALE,Inpatient Visit,True,15,28,No,No,Yes,No,No,No,No,No,No,No,10,Never,Yes,Yes,No,No,No,No,Yes,0.0,0.0,1.0,Under 30
+288,discharged,"[18,59]",FEMALE,Inpatient Visit,False,0,9,No,No,No,No,No,No,No,No,No,No,8,Never,Yes,Yes,No,No,No,No,Yes,1.0,1.0,1.0,Above 35
+289,deceased,"(59,74]",MALE,Inpatient Visit,True,20,24,No,Yes,No,Yes,No,No,No,No,No,No,14,Former,Yes,Yes,No,No,No,No,Yes,0.0,0.0,0.0,Under 30
+290,discharged,"(74,90]",MALE,Inpatient Visit,False,0,6,No,Yes,Yes,No,Yes,No,No,Yes,Yes,No,1,Former,No,Yes,No,No,No,No,No,1.0,0.0,0.0,Under 30
+291,deceased,"(59,74]",FEMALE,Inpatient Visit,True,5,9,No,Yes,Yes,Yes,Yes,No,No,No,No,No,14,Never,Yes,No,No,No,No,No,Yes,1.0,0.0,0.0,Above 35
+292,discharged,"(59,74]",FEMALE,Inpatient Visit,False,0,10,No,No,Yes,Yes,No,No,No,No,Yes,No,7,Never,Yes,Yes,Yes,Yes,No,Yes,Yes,0.0,0.0,0.0,Under 30
+293,discharged,"[18,59]",MALE,Inpatient Visit,True,9,15,No,Yes,No,No,Yes,No,No,Yes,Yes,No,7,Never,Yes,Yes,Yes,Yes,No,No,Yes,1.0,0.0,1.0,Under 30
+294,discharged,"(59,74]",MALE,Inpatient Visit,True,10,33,No,Yes,Yes,No,No,No,No,No,No,Yes,3,Never,Yes,Yes,No,No,No,No,Yes,0.0,1.0,0.0,Under 30
+295,discharged,"[18,59]",FEMALE,Inpatient Visit,True,11,22,No,Yes,No,Yes,No,Yes,No,No,No,No,6,Never,Yes,Yes,Yes,Yes,No,No,Yes,0.0,0.0,0.0,Between 30 and 35
+296,deceased,"[18,59]",MALE,Inpatient Visit,True,9,9,No,Yes,No,No,No,No,No,Yes,Yes,No,5,Former,Yes,Yes,No,No,No,Yes,Yes,1.0,1.0,1.0,Above 35
+297,discharged,"(59,74]",MALE,Inpatient Visit,False,0,8,No,No,No,No,No,No,No,No,No,No,7,Never,Yes,Yes,Yes,Yes,No,No,Yes,0.0,0.0,0.0,Under 30
+298,discharged,"[18,59]",FEMALE,Inpatient Visit,False,0,3,No,No,No,No,No,No,No,No,No,No,8,Never,Yes,Yes,No,No,Yes,No,Yes,0.0,0.0,0.0,Under 30
+299,discharged,"[18,59]",MALE,Inpatient Visit,False,0,5,No,No,Yes,No,No,No,No,No,No,No,2,Current,No,No,No,No,No,No,No,0.0,0.0,0.0,Under 30
+300,discharged,"[18,59]",MALE,Emergency Room Visit,False,0,1,No,No,Yes,No,No,No,No,No,No,No,9,Former,Yes,Yes,Yes,No,No,Yes,Yes,0.0,0.0,0.0,Under 30
+301,discharged,"(74,90]",MALE,Inpatient Visit,False,0,15,No,No,No,No,Yes,No,No,No,No,No,14,Former,Yes,Yes,Yes,Yes,Yes,Yes,Yes,0.0,0.0,0.0,Under 30
+302,discharged,"[18,59]",FEMALE,Inpatient Visit,False,0,3,No,No,No,No,No,No,No,No,No,Yes,3,Former,Yes,No,No,No,No,No,Yes,1.0,0.0,0.0,Above 35
+303,discharged,"(59,74]",MALE,Inpatient Visit,False,0,4,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,7,Never,Yes,Yes,Yes,No,Yes,No,Yes,1.0,0.0,0.0,Under 30
+304,discharged,"(59,74]",MALE,Inpatient Visit,False,0,13,No,No,Yes,Yes,Yes,No,No,No,No,No,7,Never,No,No,No,No,No,No,Yes,1.0,0.0,0.0,Under 30
+305,discharged,"(59,74]",FEMALE,Inpatient Visit,False,0,18,No,No,No,Yes,No,No,No,No,Yes,No,7,Never,Yes,Yes,No,No,No,No,No,1.0,0.0,1.0,Under 30
+306,discharged,"[18,59]",MALE,Inpatient Visit,True,40,96,No,Yes,Yes,Yes,No,No,No,No,No,Yes,21,Never,Yes,Yes,No,No,No,No,Yes,0.0,0.0,0.0,Under 30
+307,discharged,"[18,59]",FEMALE,Inpatient Visit,False,0,2,No,No,No,No,No,No,No,No,No,Yes,7,Never,Yes,Yes,No,No,No,No,Yes,0.0,0.0,0.0,Under 30
+308,discharged,"(59,74]",MALE,Inpatient Visit,False,0,10,No,No,Yes,Yes,Yes,No,No,Yes,No,No,1,Former,No,Yes,Yes,Yes,No,No,Yes,0.0,0.0,0.0,Under 30
+309,discharged,"[18,59]",FEMALE,Inpatient Visit,False,0,8,No,No,Yes,Yes,No,No,Yes,No,Yes,No,7,Never,Yes,Yes,No,No,No,No,Yes,1.0,0.0,1.0,Under 30
+310,discharged,"(59,74]",FEMALE,Inpatient Visit,True,0,17,No,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,3,Never,Yes,Yes,No,No,No,No,Yes,1.0,0.0,1.0,Under 30
+311,discharged,"[18,59]",MALE,Inpatient Visit,False,0,6,No,No,No,No,No,No,No,No,No,No,8,Never,Yes,Yes,No,Yes,Yes,No,Yes,1.0,0.0,0.0,Under 30
+312,deceased,"(59,74]",MALE,Inpatient Visit,True,14,15,No,Yes,No,Yes,No,No,No,No,No,No,4,Never,Yes,Yes,No,No,No,No,No,0.0,1.0,1.0,Under 30
+313,discharged,"[18,59]",MALE,Inpatient Visit,False,0,2,No,No,No,No,No,No,No,No,No,Yes,5,Never,Yes,Yes,No,No,Yes,No,Yes,0.0,0.0,0.0,Under 30
+314,discharged,"[18,59]",MALE,Emergency Room Visit,False,0,2,No,No,No,No,No,No,No,No,No,No,0,Never,No,Yes,No,No,No,No,No,0.0,0.0,0.0,Under 30
+315,deceased,"(74,90]",MALE,Inpatient Visit,False,0,6,No,No,Yes,No,No,Yes,No,No,No,Yes,2,Never,Yes,No,No,No,No,No,Yes,0.0,0.0,0.0,Under 30
+316,discharged,"(59,74]",MALE,Inpatient Visit,False,0,5,No,No,No,No,No,No,No,No,No,No,7,Former,Yes,Yes,No,No,No,No,Yes,0.0,0.0,0.0,Under 30
+317,discharged,"(74,90]",FEMALE,Inpatient Visit,False,0,7,No,No,Yes,No,Yes,No,No,No,No,Yes,28,Never,Yes,No,Yes,No,No,No,No,0.0,0.0,0.0,Under 30
+318,discharged,"(59,74]",FEMALE,Inpatient Visit,False,0,10,No,Yes,Yes,Yes,No,Yes,No,No,No,No,10,Former,Yes,Yes,No,No,No,No,Yes,0.0,0.0,0.0,Between 30 and 35
+319,discharged,"(74,90]",FEMALE,Inpatient Visit,False,0,5,No,No,Yes,No,Yes,No,No,Yes,Yes,No,1,Former,Yes,Yes,No,No,No,No,No,0.0,1.0,1.0,Under 30
+320,discharged,"[18,59]",FEMALE,Inpatient Visit,False,0,6,No,No,Yes,Yes,No,No,No,No,No,No,7,Never,Yes,Yes,Yes,No,No,No,Yes,0.0,0.0,0.0,Under 30
+321,discharged,"(59,74]",MALE,Inpatient Visit,False,0,6,No,No,Yes,No,No,No,No,No,No,No,14,Former,Yes,Yes,Yes,No,Yes,No,Yes,0.0,1.0,0.0,Between 30 and 35
+322,deceased,"(74,90]",MALE,Inpatient Visit,True,11,14,No,Yes,Yes,No,Yes,No,No,No,No,No,10,Former,Yes,Yes,No,No,Yes,No,Yes,0.0,0.0,0.0,Under 30
+323,discharged,"[18,59]",MALE,Emergency Room Visit,False,0,1,No,No,Yes,No,No,No,No,No,No,No,5,Never,Yes,Yes,No,No,Yes,No,Yes,0.0,0.0,0.0,Under 30
+324,discharged,"(74,90]",FEMALE,Inpatient Visit,False,0,4,No,No,Yes,No,No,No,No,No,No,No,3,Never,Yes,Yes,No,No,No,No,No,0.0,0.0,1.0,Above 35
+325,discharged,"[18,59]",MALE,Inpatient Visit,True,6,17,No,No,No,Yes,No,No,No,No,Yes,No,7,Never,No,Yes,Yes,No,No,No,No,1.0,0.0,0.0,Under 30
+326,discharged,"[18,59]",FEMALE,Inpatient Visit,False,0,10,No,No,No,No,No,No,No,No,No,Yes,8,Never,Yes,Yes,No,No,No,Yes,Yes,1.0,0.0,0.0,Above 35
+327,discharged,"[18,59]",FEMALE,Inpatient Visit,False,0,3,No,No,No,No,No,No,No,No,No,Yes,11,Never,Yes,Yes,No,No,No,No,Yes,0.0,0.0,0.0,Under 30
+328,discharged,"(59,74]",MALE,Inpatient Visit,False,0,6,No,No,Yes,Yes,No,No,No,No,No,No,4,Never,Yes,Yes,No,No,No,No,Yes,0.0,0.0,1.0,Under 30
+329,discharged,"(59,74]",MALE,Inpatient Visit,True,5,16,No,No,Yes,Yes,Yes,No,No,No,No,No,3,Never,Yes,Yes,No,No,No,No,Yes,0.0,0.0,0.0,Under 30
+330,discharged,"(59,74]",FEMALE,Inpatient Visit,False,0,7,No,Yes,No,No,Yes,No,No,Yes,No,No,2,Former,Yes,No,No,No,Yes,No,Yes,0.0,0.0,0.0,Under 30
+331,deceased,"(59,74]",MALE,Inpatient Visit,True,40,65,No,Yes,No,No,No,No,No,No,Yes,No,2,Never,Yes,Yes,No,No,No,No,No,0.0,1.0,0.0,Under 30
+332,discharged,"[18,59]",MALE,Inpatient Visit,False,0,6,No,No,Yes,Yes,Yes,Yes,No,No,No,No,7,Never,No,No,Yes,Yes,Yes,Yes,No,0.0,0.0,0.0,Under 30
+333,discharged,"[18,59]",MALE,Inpatient Visit,False,0,6,No,No,No,No,No,No,No,No,No,No,8,Former,Yes,Yes,No,No,Yes,No,Yes,0.0,0.0,0.0,Above 35
+334,discharged,"[18,59]",MALE,Inpatient Visit,False,0,5,No,Yes,Yes,Yes,No,Yes,No,No,No,No,7,Former,No,Yes,No,No,No,No,No,0.0,0.0,0.0,Under 30
+335,discharged,"[18,59]",FEMALE,Emergency Room Visit,False,0,1,No,No,No,Yes,No,No,No,No,No,No,11,Never,Yes,Yes,Yes,No,No,No,Yes,0.0,0.0,0.0,Under 30
+336,deceased,"(59,74]",FEMALE,Inpatient Visit,False,0,8,No,Yes,Yes,Yes,No,No,Yes,No,No,Yes,14,Never,Yes,Yes,Yes,Yes,Yes,No,Yes,0.0,0.0,0.0,Above 35
+337,discharged,"[18,59]",MALE,Inpatient Visit,False,0,5,No,No,No,Yes,No,No,No,No,No,No,14,Former,Yes,Yes,No,No,Yes,No,Yes,0.0,0.0,1.0,Under 30
+338,discharged,"[18,59]",MALE,Inpatient Visit,False,0,8,No,No,Yes,No,No,No,No,No,No,Yes,10,Never,Yes,Yes,Yes,No,Yes,No,Yes,0.0,0.0,1.0,Above 35
+339,discharged,"[18,59]",FEMALE,Inpatient Visit,False,0,6,No,No,No,No,No,No,No,No,No,No,8,Never,Yes,Yes,No,No,No,No,Yes,0.0,0.0,0.0,Under 30
+340,discharged,"(74,90]",MALE,Inpatient Visit,False,0,2,No,No,Yes,No,Yes,Yes,Yes,No,No,No,21,Former,No,No,Yes,Yes,No,Yes,No,0.0,0.0,0.0,Under 30
+341,discharged,"(74,90]",FEMALE,Inpatient Visit,True,40,82,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,3,Former,Yes,Yes,Yes,Yes,Yes,No,Yes,0.0,0.0,0.0,Under 30
+342,discharged,"(59,74]",FEMALE,Inpatient Visit,False,0,5,No,No,No,No,No,No,No,No,No,No,3,Former,No,Yes,Yes,Yes,No,No,Yes,0.0,0.0,0.0,Under 30
+343,discharged,"(59,74]",MALE,Inpatient Visit,False,0,5,No,No,Yes,Yes,No,Yes,No,No,No,No,5,Never,No,No,Yes,Yes,Yes,No,No,0.0,0.0,0.0,Under 30
+344,discharged,"(59,74]",FEMALE,Inpatient Visit,False,0,6,No,No,Yes,No,No,No,No,No,No,No,3,Never,No,No,Yes,Yes,No,No,Yes,0.0,0.0,0.0,Under 30
+345,discharged,"[18,59]",FEMALE,Inpatient Visit,True,3,14,Yes,No,No,No,No,No,No,No,No,No,2,Never,Yes,Yes,No,No,No,Yes,Yes,0.0,0.0,0.0,Under 30
+346,discharged,"(74,90]",MALE,Inpatient Visit,False,0,15,No,No,Yes,No,No,No,No,Yes,No,No,9,Former,Yes,Yes,Yes,Yes,Yes,Yes,Yes,0.0,0.0,0.0,Under 30
+347,deceased,"(74,90]",MALE,Inpatient Visit,False,0,13,No,No,Yes,No,No,No,Yes,No,No,No,7,Never,Yes,Yes,No,No,No,No,No,0.0,0.0,0.0,Under 30
+348,discharged,"[18,59]",MALE,Inpatient Visit,False,0,8,No,No,Yes,Yes,No,No,No,No,Yes,No,5,Former,No,Yes,No,No,Yes,No,No,0.0,0.0,0.0,Between 30 and 35
+349,discharged,"[18,59]",MALE,Inpatient Visit,False,0,5,No,No,No,No,No,No,No,No,No,No,0,Never,No,No,No,No,No,No,No,0.0,0.0,0.0,Under 30
+350,discharged,"[18,59]",MALE,Inpatient Visit,False,0,14,No,No,Yes,Yes,No,No,No,No,No,No,14,Never,Yes,Yes,No,No,No,No,Yes,0.0,1.0,0.0,Under 30
+351,discharged,"[18,59]",MALE,Inpatient Visit,True,20,29,No,No,No,No,No,No,No,No,No,Yes,6,Never,No,Yes,No,No,No,No,Yes,0.0,0.0,0.0,Under 30
+352,discharged,"[18,59]",MALE,Inpatient Visit,False,0,12,No,No,Yes,No,No,No,No,No,No,No,7,Never,Yes,Yes,Yes,No,No,No,Yes,0.0,0.0,0.0,Above 35
+353,discharged,"(74,90]",MALE,Inpatient Visit,False,0,9,No,Yes,Yes,Yes,No,No,No,Yes,No,No,7,Former,No,Yes,No,No,No,No,Yes,0.0,0.0,1.0,Under 30
+354,discharged,"[18,59]",MALE,Inpatient Visit,False,0,5,No,No,No,No,No,No,No,No,Yes,No,10,Current,Yes,Yes,Yes,Yes,No,No,No,0.0,0.0,0.0,Under 30
+355,discharged,"[18,59]",FEMALE,Inpatient Visit,False,0,3,No,No,No,Yes,No,No,No,No,No,No,7,Never,Yes,No,Yes,Yes,Yes,Yes,Yes,0.0,0.0,0.0,Above 35
+356,discharged,"(59,74]",MALE,Inpatient Visit,False,0,27,No,Yes,Yes,Yes,Yes,No,No,No,No,No,2,Former,Yes,Yes,No,No,No,No,Yes,0.0,0.0,0.0,Under 30
+357,discharged,"[18,59]",MALE,Inpatient Visit,False,0,3,No,No,No,No,No,No,No,No,No,Yes,14,Never,Yes,Yes,No,No,No,No,Yes,0.0,0.0,0.0,Under 30
+358,discharged,"[18,59]",MALE,Inpatient Visit,False,0,3,No,No,Yes,No,No,Yes,No,No,Yes,No,5,Never,Yes,Yes,No,No,No,No,Yes,1.0,0.0,0.0,Under 30
+359,deceased,"(74,90]",MALE,Inpatient Visit,False,0,11,No,Yes,Yes,Yes,Yes,No,No,No,Yes,No,6,Former,Yes,No,No,No,No,No,Yes,0.0,1.0,1.0,Under 30
+360,discharged,"(74,90]",FEMALE,Inpatient Visit,False,0,3,No,No,Yes,No,No,No,No,No,No,No,0,Never,No,No,No,No,No,No,No,0.0,0.0,0.0,Under 30
+361,discharged,"[18,59]",FEMALE,Emergency Room Visit,False,0,1,No,No,Yes,Yes,No,No,No,No,No,No,21,Never,Yes,Yes,Yes,Yes,Yes,No,No,0.0,0.0,0.0,Between 30 and 35
+362,discharged,"(59,74]",MALE,Inpatient Visit,False,0,4,No,No,No,No,No,No,No,No,No,No,7,Never,No,No,No,No,No,No,Yes,1.0,0.0,0.0,Between 30 and 35
+363,discharged,"(74,90]",MALE,Inpatient Visit,False,0,4,No,No,Yes,No,No,No,No,No,No,No,7,Never,Yes,No,Yes,No,No,No,Yes,0.0,0.0,0.0,Under 30
+364,discharged,"[18,59]",MALE,Inpatient Visit,False,0,8,No,Yes,Yes,No,No,Yes,No,No,No,No,5,Never,Yes,Yes,No,No,No,No,Yes,1.0,1.0,0.0,Under 30
+365,discharged,"[18,59]",MALE,Inpatient Visit,False,0,7,No,No,No,No,No,No,No,No,Yes,No,10,Never,Yes,Yes,Yes,No,Yes,No,Yes,1.0,0.0,0.0,Above 35
+366,discharged,"(59,74]",FEMALE,Inpatient Visit,False,0,6,No,No,Yes,No,No,No,No,No,Yes,No,9,Never,Yes,Yes,No,No,No,No,Yes,1.0,1.0,0.0,Above 35
+367,discharged,"[18,59]",MALE,Inpatient Visit,False,0,6,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,21,Never,Yes,Yes,No,No,No,No,No,0.0,0.0,0.0,Between 30 and 35
+368,discharged,"(59,74]",FEMALE,Emergency Room Visit,False,0,1,No,No,No,No,No,No,No,No,No,No,0,Never,No,No,No,No,Yes,No,No,0.0,0.0,0.0,Under 30
+369,discharged,"(59,74]",MALE,Inpatient Visit,False,0,4,No,No,Yes,No,No,No,No,No,No,No,14,Never,No,No,No,No,Yes,No,Yes,0.0,0.0,0.0,Under 30
+370,discharged,"[18,59]",MALE,Inpatient Visit,False,0,7,No,No,No,No,No,No,No,No,No,No,3,Never,Yes,Yes,No,No,No,No,Yes,0.0,0.0,0.0,Above 35
+371,discharged,"[18,59]",FEMALE,Inpatient Visit,False,0,2,No,No,No,No,No,No,No,No,No,No,8,Never,Yes,Yes,Yes,Yes,No,No,No,0.0,0.0,0.0,Above 35
+372,discharged,"[18,59]",MALE,Inpatient Visit,False,0,4,No,No,Yes,Yes,No,No,No,No,Yes,Yes,7,Former,Yes,Yes,No,Yes,No,Yes,Yes,0.0,0.0,0.0,Above 35
+373,discharged,"[18,59]",MALE,Inpatient Visit,False,0,22,No,No,Yes,No,No,No,No,No,No,Yes,3,Never,Yes,Yes,No,No,No,No,No,0.0,0.0,0.0,Under 30
+374,discharged,"(59,74]",FEMALE,Inpatient Visit,False,0,7,No,No,Yes,No,No,No,No,No,No,No,10,Never,Yes,Yes,Yes,Yes,No,No,Yes,1.0,0.0,1.0,Under 30
+375,discharged,"(59,74]",FEMALE,Inpatient Visit,True,14,24,No,Yes,Yes,No,Yes,No,No,No,No,Yes,7,Former,Yes,Yes,No,Yes,Yes,No,Yes,1.0,0.0,0.0,Under 30
+376,discharged,"[18,59]",FEMALE,Inpatient Visit,False,0,6,No,No,No,No,No,No,No,No,No,No,14,Never,No,No,No,No,No,Yes,No,0.0,0.0,0.0,Under 30
+377,discharged,"(59,74]",MALE,Inpatient Visit,True,8,32,No,No,Yes,Yes,No,No,No,No,No,Yes,10,Never,Yes,Yes,No,No,Yes,Yes,Yes,0.0,1.0,1.0,Under 30
+378,deceased,"(59,74]",MALE,Inpatient Visit,True,8,13,No,Yes,Yes,No,Yes,No,No,Yes,Yes,No,7,Former,Yes,Yes,No,No,No,No,Yes,0.0,0.0,0.0,Above 35
+379,discharged,"[18,59]",FEMALE,Inpatient Visit,False,0,8,No,No,No,Yes,No,No,No,No,No,Yes,5,Never,Yes,Yes,Yes,Yes,Yes,No,Yes,0.0,0.0,0.0,Under 30
+380,discharged,"[18,59]",MALE,Inpatient Visit,False,0,5,No,No,Yes,No,No,No,No,No,No,Yes,2,Never,Yes,Yes,No,No,Yes,No,Yes,1.0,0.0,0.0,Above 35
+381,discharged,"(59,74]",FEMALE,Inpatient Visit,False,0,11,No,No,Yes,No,Yes,No,No,No,No,No,14,Never,Yes,No,No,No,No,No,No,0.0,0.0,0.0,Above 35
+382,discharged,"[18,59]",FEMALE,Inpatient Visit,False,0,5,No,No,No,No,No,No,No,No,No,Yes,14,Never,No,Yes,No,No,No,No,Yes,0.0,0.0,1.0,Under 30
+383,deceased,"(59,74]",MALE,Inpatient Visit,True,4,16,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Yes,6,Never,No,Yes,No,No,Yes,No,No,0.0,1.0,0.0,Between 30 and 35
+384,deceased,"(74,90]",MALE,Inpatient Visit,False,0,3,No,No,No,No,No,No,No,No,No,Yes,1,Former,No,No,No,No,No,No,Yes,0.0,1.0,0.0,Under 30
+385,discharged,"[18,59]",MALE,Inpatient Visit,False,0,13,No,Yes,Yes,No,No,No,No,No,Yes,No,7,Never,Yes,No,Yes,Yes,Yes,No,Yes,0.0,0.0,0.0,Above 35
+386,discharged,"[18,59]",MALE,Inpatient Visit,False,0,6,No,No,Yes,No,No,No,No,No,Yes,No,1,Current,No,No,Yes,Yes,Yes,No,Yes,0.0,0.0,0.0,Between 30 and 35
+387,discharged,"[18,59]",MALE,Inpatient Visit,False,0,4,No,No,Yes,No,No,No,No,No,No,No,8,Never,Yes,Yes,No,No,Yes,No,Yes,0.0,0.0,0.0,Under 30
+388,discharged,"[18,59]",MALE,Inpatient Visit,True,10,21,No,Yes,Yes,No,No,No,Yes,No,No,No,2,Former,No,Yes,No,No,No,No,No,0.0,0.0,0.0,Above 35
+389,deceased,"(74,90]",FEMALE,Inpatient Visit,False,0,5,No,Yes,Yes,No,Yes,No,No,No,No,No,3,Never,Yes,Yes,No,No,No,No,No,0.0,1.0,1.0,Under 30
+390,discharged,"[18,59]",FEMALE,Emergency Room Visit,False,0,1,No,No,No,No,No,No,No,No,No,Yes,8,Never,Yes,No,No,No,No,Yes,Yes,0.0,0.0,0.0,Under 30
+391,discharged,"(59,74]",FEMALE,Inpatient Visit,False,0,4,No,No,No,No,No,No,Yes,No,No,Yes,6,Never,Yes,No,Yes,Yes,No,No,Yes,1.0,0.0,1.0,Under 30
+392,discharged,"(59,74]",FEMALE,Inpatient Visit,False,0,10,No,No,Yes,No,Yes,No,No,No,No,No,7,Never,Yes,No,No,No,No,No,No,0.0,0.0,0.0,Under 30
+393,discharged,"(74,90]",FEMALE,Inpatient Visit,False,34,56,No,No,No,No,No,No,No,No,No,No,7,Former,Yes,Yes,No,No,Yes,No,Yes,1.0,0.0,1.0,Under 30
+394,discharged,"[18,59]",MALE,Inpatient Visit,False,0,11,No,No,Yes,No,No,No,Yes,No,No,Yes,14,Former,Yes,Yes,No,No,No,No,Yes,1.0,1.0,0.0,Under 30
+395,discharged,"(59,74]",FEMALE,Emergency Room Visit,False,0,1,No,No,No,No,No,No,No,No,No,No,5,Never,Yes,Yes,No,No,Yes,No,Yes,0.0,0.0,0.0,Under 30
+396,discharged,"(59,74]",FEMALE,Inpatient Visit,True,0,18,No,No,Yes,Yes,No,No,No,No,No,No,7,Never,Yes,Yes,No,No,No,No,Yes,0.0,1.0,1.0,Under 30
+397,discharged,"(59,74]",MALE,Inpatient Visit,False,0,4,No,No,No,Yes,No,No,No,No,No,Yes,10,Former,Yes,Yes,Yes,Yes,Yes,No,Yes,1.0,0.0,0.0,Above 35
+398,discharged,"[18,59]",FEMALE,Inpatient Visit,False,0,6,No,No,No,Yes,No,No,No,No,No,No,7,Never,Yes,Yes,No,No,No,No,No,0.0,0.0,1.0,Under 30
+399,discharged,"(59,74]",FEMALE,Inpatient Visit,False,0,13,No,No,Yes,Yes,Yes,Yes,Yes,No,No,No,5,Former,Yes,No,No,No,No,No,Yes,1.0,0.0,1.0,Under 30
+400,discharged,"[18,59]",MALE,Inpatient Visit,False,0,4,No,No,No,No,No,No,No,No,No,No,10,Never,Yes,Yes,Yes,No,Yes,No,Yes,1.0,1.0,0.0,Under 30
+401,discharged,"(74,90]",FEMALE,Inpatient Visit,False,0,15,No,No,Yes,No,No,No,No,No,No,No,3,Never,Yes,Yes,No,No,No,No,Yes,0.0,0.0,0.0,Under 30
+402,discharged,"[18,59]",MALE,Inpatient Visit,False,0,25,No,No,Yes,Yes,No,No,No,No,No,Yes,7,Never,No,No,Yes,Yes,Yes,No,No,0.0,0.0,0.0,Above 35
+403,discharged,"[18,59]",FEMALE,Emergency Room Visit,False,0,2,No,No,Yes,Yes,No,No,No,No,No,No,5,Never,Yes,No,Yes,Yes,Yes,Yes,Yes,0.0,0.0,0.0,Under 30
+404,deceased,"(59,74]",MALE,Inpatient Visit,True,15,16,No,Yes,Yes,No,Yes,Yes,No,No,No,Yes,7,Former,Yes,Yes,No,No,No,No,Yes,0.0,0.0,1.0,Under 30
+405,deceased,"(74,90]",MALE,Inpatient Visit,False,0,6,No,Yes,Yes,No,Yes,No,Yes,No,No,No,1,Former,No,Yes,No,No,No,No,No,0.0,0.0,0.0,Under 30
+406,discharged,"[18,59]",FEMALE,Inpatient Visit,False,0,4,No,No,No,Yes,No,No,No,No,Yes,No,7,Never,Yes,Yes,No,No,No,No,Yes,0.0,0.0,0.0,Between 30 and 35
+407,discharged,"(59,74]",MALE,Inpatient Visit,True,15,22,No,No,No,No,No,No,No,No,No,No,5,Never,Yes,Yes,No,No,No,No,Yes,1.0,1.0,0.0,Between 30 and 35
+408,discharged,"(74,90]",MALE,Inpatient Visit,False,0,15,No,No,Yes,No,No,No,No,No,No,No,14,Former,Yes,Yes,No,No,No,No,Yes,1.0,0.0,0.0,Under 30
+409,discharged,"(74,90]",FEMALE,Inpatient Visit,False,0,17,No,No,Yes,Yes,No,No,No,No,No,Yes,6,Never,Yes,No,No,No,No,No,Yes,0.0,0.0,0.0,Under 30
+410,discharged,"[18,59]",FEMALE,Emergency Room Visit,False,0,1,No,No,No,No,No,No,No,No,No,No,4,Former,Yes,Yes,Yes,No,No,No,Yes,0.0,0.0,0.0,Under 30
+411,discharged,"(74,90]",FEMALE,Inpatient Visit,False,0,9,No,No,Yes,No,No,No,No,No,No,No,3,Former,Yes,No,No,No,No,No,No,0.0,0.0,0.0,Under 30
+412,discharged,"[18,59]",MALE,Inpatient Visit,False,0,8,No,No,No,No,No,No,No,No,No,No,5,Never,Yes,No,Yes,No,No,Yes,Yes,1.0,0.0,0.0,Between 30 and 35
+413,deceased,"[18,59]",MALE,Inpatient Visit,True,10,15,No,Yes,No,Yes,No,No,No,No,No,No,11,Never,Yes,No,No,No,No,No,Yes,0.0,1.0,0.0,Under 30
+414,discharged,"(59,74]",FEMALE,Inpatient Visit,True,9,18,No,No,Yes,No,No,No,No,No,No,Yes,11,Former,Yes,No,No,No,Yes,No,Yes,0.0,1.0,0.0,Under 30
+415,discharged,"[18,59]",FEMALE,Inpatient Visit,False,0,3,No,No,No,No,No,No,No,No,Yes,No,3,Never,Yes,Yes,Yes,No,No,No,No,0.0,0.0,0.0,Between 30 and 35
+416,discharged,"[18,59]",MALE,Inpatient Visit,False,0,11,No,No,No,No,No,No,No,No,No,No,8,Never,Yes,Yes,Yes,Yes,No,No,Yes,1.0,0.0,0.0,Under 30
+417,discharged,"[18,59]",FEMALE,Emergency Room Visit,False,0,1,No,No,No,No,No,No,No,No,No,No,2,Current,Yes,No,No,No,No,No,Yes,0.0,0.0,0.0,Under 30
+418,discharged,"[18,59]",MALE,Inpatient Visit,False,0,7,No,No,No,No,No,No,No,No,No,No,7,Never,Yes,Yes,No,No,No,Yes,Yes,1.0,0.0,0.0,Under 30
+419,discharged,"(59,74]",MALE,Inpatient Visit,False,0,3,No,No,Yes,No,No,No,Yes,No,No,No,1,Former,Yes,No,No,No,No,No,Yes,0.0,0.0,0.0,Under 30
+420,discharged,"(74,90]",FEMALE,Inpatient Visit,False,0,4,No,No,Yes,No,Yes,No,No,No,No,No,1,Former,Yes,No,No,No,No,No,No,0.0,0.0,0.0,Under 30
+421,discharged,"[18,59]",MALE,Inpatient Visit,True,7,20,No,No,No,No,No,No,No,No,No,No,14,Never,Yes,Yes,Yes,No,Yes,No,Yes,0.0,0.0,0.0,Under 30
+422,discharged,"[18,59]",MALE,Inpatient Visit,False,0,7,No,No,Yes,No,No,No,No,No,No,No,0,Never,Yes,Yes,No,No,No,No,No,0.0,0.0,0.0,Under 30
+423,discharged,"[18,59]",MALE,Emergency Room Visit,False,0,2,No,No,No,No,No,No,No,No,No,Yes,7,Never,Yes,Yes,No,No,No,No,Yes,1.0,0.0,0.0,Between 30 and 35
+424,discharged,"(59,74]",MALE,Inpatient Visit,False,0,3,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,30,Never,Yes,Yes,No,No,Yes,No,No,0.0,0.0,1.0,Above 35
+425,deceased,"(74,90]",FEMALE,Inpatient Visit,False,0,3,No,No,Yes,No,No,No,No,No,No,Yes,3,Never,No,Yes,No,No,No,No,Yes,0.0,1.0,1.0,Between 30 and 35
+426,discharged,"[18,59]",FEMALE,Inpatient Visit,False,0,4,No,No,No,No,No,No,No,No,No,Yes,3,Former,Yes,Yes,Yes,Yes,No,No,No,0.0,0.0,1.0,Above 35
+427,discharged,"[18,59]",MALE,Inpatient Visit,False,0,19,No,No,No,No,Yes,No,No,No,No,No,10,Never,Yes,Yes,No,No,No,No,Yes,1.0,1.0,0.0,Under 30
+428,deceased,"[18,59]",MALE,Inpatient Visit,True,26,30,No,No,No,No,No,No,No,No,No,No,3,Never,Yes,Yes,No,No,No,No,Yes,0.0,1.0,1.0,Under 30
+429,discharged,"[18,59]",MALE,Inpatient Visit,True,26,41,No,Yes,No,No,No,No,No,No,No,Yes,7,Never,Yes,Yes,Yes,No,Yes,No,Yes,1.0,0.0,0.0,Under 30
+430,deceased,"(59,74]",MALE,Inpatient Visit,True,9,10,No,Yes,Yes,No,No,No,No,No,No,Yes,5,Former,Yes,Yes,No,No,No,No,Yes,1.0,0.0,1.0,Between 30 and 35
+431,discharged,"(74,90]",FEMALE,Inpatient Visit,False,0,5,No,No,Yes,No,No,No,No,No,No,Yes,7,Never,Yes,Yes,No,No,No,No,No,0.0,0.0,0.0,Under 30
+432,discharged,"[18,59]",FEMALE,Inpatient Visit,False,0,3,No,No,No,No,No,No,No,No,No,Yes,14,Never,Yes,Yes,No,No,Yes,No,Yes,0.0,0.0,0.0,Under 30
+433,discharged,"(59,74]",MALE,Inpatient Visit,False,0,7,No,No,No,No,No,No,No,No,No,No,14,Never,Yes,Yes,No,No,No,No,No,0.0,0.0,1.0,Between 30 and 35
+434,discharged,"(59,74]",MALE,Inpatient Visit,False,0,6,No,No,Yes,No,No,No,No,No,No,Yes,6,Never,Yes,Yes,No,No,Yes,No,Yes,0.0,0.0,0.0,Between 30 and 35
+435,discharged,"[18,59]",FEMALE,Inpatient Visit,False,0,4,No,No,Yes,Yes,No,No,No,No,No,Yes,7,Never,Yes,Yes,No,No,Yes,No,Yes,0.0,0.0,0.0,Between 30 and 35
+436,discharged,"[18,59]",FEMALE,Emergency Room Visit,False,0,2,No,No,No,No,No,No,No,No,Yes,No,10,Never,Yes,Yes,No,No,No,No,Yes,0.0,0.0,0.0,Under 30
+437,discharged,"(74,90]",MALE,Inpatient Visit,False,0,4,No,No,Yes,Yes,No,No,No,No,No,Yes,7,Former,Yes,Yes,No,No,No,No,Yes,0.0,0.0,0.0,Between 30 and 35
+438,discharged,"[18,59]",MALE,Inpatient Visit,False,0,8,No,No,Yes,No,No,No,No,No,No,No,10,Never,Yes,Yes,No,No,Yes,Yes,Yes,0.0,0.0,0.0,Under 30
+439,discharged,"[18,59]",FEMALE,Inpatient Visit,False,0,4,No,No,No,No,No,No,No,No,No,No,9,Never,Yes,Yes,No,No,No,No,Yes,0.0,0.0,0.0,Between 30 and 35
+440,deceased,"[18,59]",MALE,Inpatient Visit,False,2,3,Yes,Yes,No,No,No,No,No,No,No,No,14,Never,Yes,No,Yes,Yes,Yes,No,Yes,1.0,1.0,1.0,Under 30
+441,discharged,"[18,59]",FEMALE,Inpatient Visit,False,0,6,No,No,No,No,No,No,No,No,No,No,8,Never,Yes,Yes,No,No,Yes,No,Yes,1.0,0.0,0.0,Above 35
+442,deceased,"(74,90]",FEMALE,Inpatient Visit,False,0,9,No,Yes,Yes,No,No,No,No,No,No,No,21,Never,Yes,No,No,No,No,No,No,0.0,0.0,0.0,Under 30
+443,discharged,"(74,90]",MALE,Inpatient Visit,False,0,3,No,No,No,Yes,Yes,No,Yes,No,No,No,2,Former,No,No,No,No,No,No,Yes,0.0,0.0,0.0,Under 30
+444,deceased,"(59,74]",MALE,Inpatient Visit,True,8,10,No,Yes,No,No,No,No,No,No,Yes,No,14,Never,Yes,Yes,No,No,No,No,No,0.0,1.0,1.0,Under 30
+445,deceased,"(74,90]",MALE,Inpatient Visit,False,0,6,No,No,Yes,No,No,Yes,No,No,No,No,1,Never,Yes,Yes,No,No,No,No,Yes,0.0,0.0,0.0,Under 30
+446,discharged,"(74,90]",FEMALE,Inpatient Visit,False,0,17,No,No,Yes,Yes,Yes,No,No,No,No,No,3,Never,Yes,Yes,No,No,No,No,Yes,0.0,0.0,0.0,Between 30 and 35
+447,deceased,"[18,59]",MALE,Inpatient Visit,True,40,50,Yes,Yes,Yes,No,No,No,No,No,Yes,No,7,Never,No,Yes,No,No,No,No,No,0.0,1.0,1.0,Between 30 and 35
+448,discharged,"[18,59]",MALE,Inpatient Visit,False,0,6,No,Yes,Yes,Yes,No,No,No,No,No,No,8,Never,Yes,No,No,No,No,No,Yes,0.0,0.0,0.0,Under 30
+449,discharged,"[18,59]",FEMALE,Inpatient Visit,False,0,25,No,No,No,No,No,No,No,No,No,No,4,Never,Yes,Yes,No,No,No,No,Yes,1.0,1.0,0.0,Under 30
+450,discharged,"(74,90]",FEMALE,Inpatient Visit,False,0,10,No,Yes,Yes,No,No,No,No,No,No,No,5,Never,No,No,No,No,No,No,Yes,0.0,0.0,0.0,Between 30 and 35
+451,deceased,"(74,90]",MALE,Inpatient Visit,True,7,10,No,Yes,Yes,No,Yes,No,Yes,No,No,Yes,3,Never,No,No,No,No,No,No,Yes,0.0,0.0,0.0,Under 30
+452,discharged,"[18,59]",MALE,Inpatient Visit,False,0,8,No,No,No,Yes,No,No,No,No,No,Yes,7,Never,Yes,Yes,No,No,No,No,Yes,0.0,0.0,0.0,Above 35
+453,discharged,"(59,74]",MALE,Inpatient Visit,True,11,17,No,Yes,Yes,Yes,No,No,No,No,No,Yes,14,Former,Yes,Yes,No,No,No,No,Yes,0.0,1.0,1.0,Under 30
+454,discharged,"[18,59]",FEMALE,Inpatient Visit,False,0,18,No,No,Yes,Yes,No,No,No,No,No,No,7,Never,Yes,Yes,No,No,Yes,No,Yes,1.0,0.0,0.0,Above 35
+455,discharged,"(74,90]",MALE,Inpatient Visit,True,40,70,No,No,No,No,No,No,No,No,Yes,No,5,Never,Yes,Yes,No,No,No,No,Yes,0.0,0.0,0.0,Under 30
+456,discharged,"[18,59]",MALE,Inpatient Visit,False,0,8,No,No,Yes,Yes,No,No,No,No,No,No,8,Never,Yes,Yes,No,No,No,No,No,0.0,0.0,0.0,Above 35
+457,discharged,"[18,59]",FEMALE,Inpatient Visit,False,0,9,No,No,No,No,No,No,No,No,No,No,1,Never,No,Yes,No,No,No,No,No,0.0,0.0,0.0,Under 30
+458,discharged,"[18,59]",MALE,Inpatient Visit,False,0,6,No,No,No,Yes,No,No,No,No,No,No,7,Former,No,Yes,No,No,No,No,Yes,0.0,0.0,0.0,Under 30
+459,discharged,"(74,90]",FEMALE,Inpatient Visit,False,0,8,No,No,Yes,No,No,No,No,No,No,No,2,Never,No,No,Yes,No,Yes,No,Yes,0.0,0.0,0.0,Under 30
+460,discharged,"[18,59]",FEMALE,Emergency Room Visit,False,0,1,No,No,No,No,No,No,No,No,No,No,21,Never,No,No,No,No,Yes,No,Yes,0.0,0.0,0.0,Under 30
+461,discharged,"(59,74]",FEMALE,Inpatient Visit,True,7,14,No,No,No,No,No,No,No,No,Yes,No,14,Never,Yes,Yes,No,No,No,No,Yes,0.0,0.0,1.0,Under 30
+462,discharged,"(74,90]",FEMALE,Inpatient Visit,False,0,6,No,No,Yes,Yes,Yes,No,No,No,No,No,5,Never,Yes,Yes,Yes,Yes,No,No,Yes,1.0,0.0,0.0,Between 30 and 35
+463,discharged,"(74,90]",FEMALE,Inpatient Visit,False,0,26,No,No,Yes,No,No,No,Yes,No,No,No,7,Never,Yes,No,No,No,No,No,No,0.0,0.0,0.0,Under 30
+464,discharged,"[18,59]",FEMALE,Inpatient Visit,False,0,3,No,No,No,No,No,No,No,No,No,No,5,Former,Yes,Yes,No,No,No,No,Yes,0.0,0.0,0.0,Under 30
+465,deceased,"(59,74]",FEMALE,Inpatient Visit,True,6,6,No,Yes,Yes,Yes,No,No,No,Yes,No,No,1,Former,No,Yes,No,No,No,No,Yes,0.0,1.0,0.0,Above 35
+466,discharged,"(74,90]",FEMALE,Inpatient Visit,True,11,29,No,Yes,Yes,Yes,No,No,No,No,No,No,2,Never,No,No,No,No,No,No,No,0.0,0.0,0.0,Above 35
+467,deceased,"(74,90]",FEMALE,Inpatient Visit,False,0,13,No,Yes,Yes,Yes,No,No,No,No,No,No,5,Never,No,No,No,No,Yes,No,No,0.0,0.0,0.0,Under 30
+468,discharged,"[18,59]",FEMALE,Emergency Room Visit,False,0,1,No,No,No,Yes,No,No,No,No,No,No,4,Never,No,No,No,Yes,No,No,Yes,1.0,0.0,1.0,Above 35
+469,deceased,"(74,90]",MALE,Inpatient Visit,True,5,12,No,Yes,Yes,No,No,No,Yes,No,No,No,7,Former,Yes,Yes,No,No,No,No,No,0.0,1.0,0.0,Between 30 and 35
+470,deceased,"(59,74]",MALE,Inpatient Visit,True,21,22,No,Yes,Yes,No,Yes,No,No,No,No,No,13,Never,Yes,Yes,No,No,No,No,Yes,0.0,0.0,1.0,Under 30
+471,discharged,"(74,90]",MALE,Inpatient Visit,False,0,5,No,No,Yes,No,No,No,No,No,No,No,7,Former,Yes,Yes,No,No,Yes,No,Yes,0.0,0.0,0.0,Under 30
+472,discharged,"[18,59]",MALE,Inpatient Visit,False,0,4,No,No,No,No,No,No,No,No,No,No,7,Current,Yes,Yes,No,No,No,No,Yes,1.0,1.0,0.0,Between 30 and 35
+473,discharged,"(59,74]",MALE,Inpatient Visit,False,0,10,No,No,Yes,No,No,No,No,No,No,No,1,Never,No,Yes,No,No,No,No,Yes,0.0,1.0,1.0,Under 30
+474,discharged,"[18,59]",MALE,Inpatient Visit,False,0,14,No,No,No,No,No,No,No,No,Yes,Yes,6,Never,Yes,Yes,No,No,No,No,Yes,1.0,1.0,1.0,Above 35
+475,discharged,"[18,59]",MALE,Inpatient Visit,True,8,24,No,No,No,Yes,No,No,No,No,No,Yes,3,Never,Yes,No,No,No,No,No,No,0.0,0.0,0.0,Above 35
+476,deceased,"(74,90]",MALE,Inpatient Visit,True,10,16,No,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,3,Former,Yes,Yes,No,No,No,No,Yes,0.0,0.0,0.0,Under 30
+477,discharged,"[18,59]",MALE,Inpatient Visit,False,0,12,No,No,No,No,No,No,No,No,No,Yes,10,Never,Yes,Yes,Yes,No,Yes,Yes,Yes,0.0,0.0,0.0,Under 30
+478,discharged,"[18,59]",MALE,Inpatient Visit,False,0,8,No,No,No,No,No,No,No,No,No,No,10,Never,Yes,Yes,No,No,No,No,Yes,0.0,0.0,0.0,Between 30 and 35
+479,discharged,"[18,59]",MALE,Inpatient Visit,False,7,15,No,No,No,No,No,No,No,No,No,Yes,10,Never,Yes,Yes,No,No,Yes,No,Yes,1.0,0.0,0.0,Between 30 and 35
+480,discharged,"[18,59]",MALE,Inpatient Visit,False,0,9,No,No,No,No,No,No,No,No,No,Yes,7,Current,Yes,Yes,No,No,Yes,No,Yes,1.0,0.0,1.0,Under 30
+481,discharged,"[18,59]",MALE,Inpatient Visit,True,0,24,No,No,No,No,No,No,No,No,No,No,4,Never,Yes,Yes,No,No,No,No,Yes,0.0,0.0,0.0,Between 30 and 35
+482,deceased,"(59,74]",MALE,Inpatient Visit,True,10,17,No,Yes,Yes,Yes,No,No,Yes,No,No,No,1,Former,No,No,No,No,Yes,No,Yes,0.0,0.0,0.0,Between 30 and 35
+483,discharged,"(59,74]",FEMALE,Inpatient Visit,True,4,15,Yes,Yes,Yes,No,No,No,No,No,No,No,10,Former,Yes,No,Yes,No,Yes,Yes,No,0.0,0.0,0.0,Under 30
+484,discharged,"(59,74]",MALE,Inpatient Visit,False,0,4,No,No,No,No,No,No,No,No,No,No,2,Never,No,No,No,No,No,No,Yes,0.0,0.0,0.0,Above 35
+485,discharged,"[18,59]",FEMALE,Inpatient Visit,False,0,11,No,No,No,No,No,No,No,No,No,No,10,Never,Yes,Yes,Yes,Yes,Yes,No,Yes,1.0,0.0,1.0,Under 30
+486,discharged,"[18,59]",MALE,Inpatient Visit,False,0,8,No,No,No,No,No,No,No,No,No,No,8,Never,Yes,Yes,No,No,No,No,Yes,1.0,0.0,0.0,Under 30
+487,discharged,"[18,59]",FEMALE,Inpatient Visit,False,0,19,No,Yes,No,Yes,Yes,No,No,No,Yes,Yes,1,Never,Yes,Yes,No,No,Yes,No,Yes,1.0,0.0,0.0,Above 35
+488,discharged,"[18,59]",FEMALE,Inpatient Visit,True,6,16,No,No,No,No,No,No,No,No,No,No,7,Never,Yes,No,No,No,No,No,Yes,1.0,0.0,0.0,Above 35
+489,deceased,"[18,59]",MALE,Inpatient Visit,True,13,16,Yes,Yes,No,No,No,No,No,No,Yes,No,6,Never,Yes,Yes,No,No,No,No,Yes,1.0,0.0,0.0,Under 30
+490,discharged,"[18,59]",FEMALE,Inpatient Visit,False,0,4,No,No,No,No,No,No,No,No,No,No,10,Never,Yes,Yes,No,No,No,No,Yes,0.0,0.0,0.0,Under 30
+491,discharged,"[18,59]",FEMALE,Inpatient Visit,False,0,13,No,No,No,Yes,No,No,No,No,No,Yes,8,Never,Yes,Yes,Yes,No,No,No,Yes,0.0,0.0,0.0,Under 30
+492,discharged,"(59,74]",MALE,Inpatient Visit,True,14,27,No,No,Yes,No,No,No,No,No,Yes,No,5,Never,Yes,Yes,Yes,Yes,No,Yes,Yes,0.0,1.0,1.0,Above 35
+493,discharged,"(59,74]",MALE,Inpatient Visit,True,24,35,No,No,Yes,Yes,No,No,No,No,No,Yes,8,Never,Yes,Yes,Yes,Yes,Yes,No,Yes,0.0,0.0,0.0,Under 30
+494,discharged,"[18,59]",MALE,Inpatient Visit,True,14,22,No,Yes,No,No,No,No,No,No,No,No,3,Never,Yes,Yes,No,No,No,No,Yes,1.0,0.0,0.0,Under 30
+495,discharged,"[18,59]",MALE,Inpatient Visit,False,0,2,No,No,No,No,No,No,No,No,No,No,5,Never,Yes,No,No,No,No,No,Yes,1.0,0.0,0.0,Between 30 and 35
+496,discharged,"[18,59]",FEMALE,Inpatient Visit,False,0,4,No,No,No,No,No,No,No,No,No,No,3,Never,Yes,Yes,Yes,No,No,No,Yes,1.0,0.0,0.0,Under 30
+497,discharged,"[18,59]",MALE,Inpatient Visit,False,0,4,No,No,No,Yes,No,No,No,No,No,No,2,Never,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1.0,0.0,1.0,Under 30
+498,discharged,"(59,74]",MALE,Inpatient Visit,False,0,12,No,No,No,No,No,No,No,No,No,No,5,Never,Yes,Yes,No,No,Yes,No,Yes,1.0,0.0,0.0,Under 30
+499,discharged,"[18,59]",FEMALE,Emergency Room Visit,False,0,2,No,No,Yes,No,No,No,No,No,No,No,7,Never,Yes,Yes,Yes,No,No,No,No,0.0,0.0,0.0,Under 30
+500,discharged,"[18,59]",MALE,Inpatient Visit,False,0,4,No,No,No,No,No,No,No,No,No,No,14,Never,Yes,Yes,Yes,No,Yes,Yes,Yes,0.0,0.0,0.0,Between 30 and 35
+501,discharged,"[18,59]",FEMALE,Inpatient Visit,False,0,13,No,No,No,Yes,No,No,No,No,No,No,7,Never,Yes,Yes,Yes,Yes,Yes,No,Yes,0.0,0.0,0.0,Between 30 and 35
+502,discharged,"(59,74]",FEMALE,Inpatient Visit,False,0,11,No,No,No,No,No,No,No,No,No,Yes,8,Former,Yes,Yes,No,No,No,No,Yes,0.0,0.0,0.0,Under 30
+503,deceased,"(59,74]",MALE,Inpatient Visit,True,16,23,No,No,No,No,No,No,No,No,No,No,8,Never,Yes,Yes,No,No,No,No,Yes,0.0,1.0,0.0,Under 30
+504,discharged,"[18,59]",MALE,Inpatient Visit,False,0,3,No,No,No,No,No,No,No,No,No,No,10,Never,Yes,No,Yes,No,No,Yes,Yes,0.0,0.0,0.0,Under 30
+505,discharged,"(59,74]",MALE,Inpatient Visit,False,0,5,No,No,No,No,No,No,No,No,No,No,12,Never,Yes,Yes,No,No,No,No,Yes,0.0,0.0,0.0,Above 35
+506,discharged,"[18,59]",MALE,Inpatient Visit,True,4,10,No,No,No,No,No,No,No,No,No,No,7,Never,Yes,Yes,No,No,Yes,No,Yes,1.0,0.0,0.0,Above 35
+507,discharged,"[18,59]",FEMALE,Inpatient Visit,False,0,8,Yes,No,No,No,No,No,No,No,No,No,5,Never,Yes,Yes,No,Yes,No,No,Yes,0.0,0.0,0.0,Above 35
+508,discharged,"[18,59]",FEMALE,Emergency Room Visit,False,0,3,No,No,No,No,No,No,No,No,No,No,4,Never,Yes,No,No,No,No,Yes,Yes,0.0,0.0,0.0,Under 30
+509,discharged,"(59,74]",FEMALE,Inpatient Visit,False,0,6,No,No,No,No,No,No,No,No,No,Yes,7,Never,Yes,Yes,No,No,Yes,No,Yes,0.0,0.0,0.0,Under 30
+510,deceased,"[18,59]",MALE,Inpatient Visit,True,18,22,Yes,Yes,No,No,No,No,No,No,Yes,Yes,4,Former,Yes,Yes,No,No,No,No,Yes,1.0,0.0,0.0,Above 35
+511,discharged,"[18,59]",MALE,Inpatient Visit,False,0,3,No,No,No,No,No,No,No,No,No,No,7,Never,Yes,Yes,No,No,No,No,Yes,0.0,0.0,0.0,Under 30
+512,discharged,"[18,59]",MALE,Emergency Room Visit,False,0,2,No,No,No,No,No,No,No,No,No,No,1,Never,Yes,No,No,No,No,No,Yes,1.0,0.0,0.0,Under 30
+513,discharged,"(59,74]",MALE,Inpatient Visit,False,0,6,No,No,No,No,No,No,Yes,No,No,Yes,11,Never,Yes,Yes,No,No,No,No,Yes,1.0,0.0,0.0,Under 30
+514,discharged,"[18,59]",MALE,Inpatient Visit,False,0,7,No,No,No,Yes,No,No,No,No,No,No,14,Never,Yes,Yes,No,No,No,No,Yes,1.0,0.0,0.0,Above 35
+515,discharged,"(59,74]",FEMALE,Inpatient Visit,False,0,3,No,No,Yes,No,No,No,No,No,No,No,4,Never,Yes,No,No,No,No,Yes,Yes,0.0,0.0,0.0,Between 30 and 35
+516,discharged,"(59,74]",MALE,Inpatient Visit,True,9,22,No,Yes,Yes,Yes,No,No,No,No,No,Yes,14,Never,Yes,Yes,No,No,No,No,Yes,0.0,0.0,0.0,Between 30 and 35
+517,discharged,"[18,59]",FEMALE,Inpatient Visit,True,6,16,No,No,Yes,Yes,No,No,No,No,No,No,3,Never,Yes,Yes,No,No,No,Yes,Yes,0.0,1.0,0.0,Under 30
+518,discharged,"[18,59]",MALE,Inpatient Visit,True,0,12,No,No,Yes,No,No,No,No,No,No,Yes,12,Never,Yes,Yes,No,No,No,No,Yes,0.0,0.0,0.0,Between 30 and 35
+519,discharged,"[18,59]",MALE,Inpatient Visit,True,6,14,No,No,Yes,No,No,No,No,No,No,No,7,Never,Yes,No,No,No,No,No,Yes,1.0,0.0,1.0,Under 30
+520,discharged,"[18,59]",MALE,Inpatient Visit,False,0,6,No,No,Yes,Yes,No,No,No,No,No,No,9,Never,Yes,Yes,No,No,No,No,Yes,0.0,0.0,0.0,Between 30 and 35
+521,discharged,"[18,59]",MALE,Emergency Room Visit,False,0,2,No,No,No,No,No,No,No,No,No,Yes,30,Never,Yes,Yes,No,No,Yes,No,Yes,0.0,0.0,0.0,Under 30
+522,discharged,"[18,59]",FEMALE,Inpatient Visit,False,0,9,No,No,No,No,No,No,No,No,No,Yes,1,Never,No,No,No,No,No,No,Yes,1.0,1.0,0.0,Under 30
+523,discharged,"[18,59]",MALE,Inpatient Visit,False,0,7,No,No,No,No,No,No,Yes,No,No,Yes,21,Former,Yes,Yes,No,No,No,No,Yes,0.0,0.0,0.0,Under 30
+524,discharged,"[18,59]",FEMALE,Emergency Room Visit,False,0,3,No,No,No,Yes,No,No,No,No,No,No,3,Never,Yes,No,Yes,Yes,No,Yes,Yes,0.0,0.0,0.0,Under 30
+525,discharged,"[18,59]",MALE,Inpatient Visit,False,0,10,No,No,No,No,No,No,No,No,No,No,7,Never,Yes,Yes,No,No,Yes,No,Yes,0.0,0.0,0.0,Above 35
+526,discharged,"(74,90]",FEMALE,Inpatient Visit,False,0,3,No,No,No,No,No,No,Yes,No,No,No,7,Never,Yes,No,Yes,No,Yes,No,No,0.0,0.0,0.0,Under 30
+527,discharged,"(74,90]",MALE,Inpatient Visit,False,0,3,No,No,No,No,Yes,No,Yes,No,Yes,No,7,Former,Yes,No,Yes,Yes,Yes,No,No,0.0,0.0,0.0,Under 30
+528,discharged,"[18,59]",MALE,Inpatient Visit,False,0,3,No,No,No,No,No,No,No,No,No,Yes,15,Never,No,No,No,No,Yes,Yes,Yes,1.0,0.0,0.0,Under 30
+529,discharged,"(74,90]",MALE,Inpatient Visit,False,0,9,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,1,Never,No,No,No,No,No,No,No,1.0,0.0,0.0,Between 30 and 35
+530,discharged,"(59,74]",MALE,Inpatient Visit,False,0,7,No,No,No,No,No,No,No,No,Yes,No,7,Never,Yes,Yes,No,No,Yes,No,Yes,0.0,0.0,0.0,Between 30 and 35
+531,discharged,"[18,59]",MALE,Inpatient Visit,False,0,4,No,No,No,No,No,No,No,No,No,No,5,Never,Yes,Yes,No,No,No,No,Yes,1.0,0.0,0.0,Under 30
+532,discharged,"[18,59]",MALE,Inpatient Visit,False,0,10,No,No,No,No,No,No,No,No,No,No,12,Never,Yes,Yes,No,No,No,No,Yes,0.0,0.0,0.0,Under 30
+533,discharged,"(59,74]",MALE,Inpatient Visit,False,0,10,No,No,No,No,No,No,No,No,No,No,7,Never,Yes,Yes,No,No,No,No,Yes,1.0,0.0,0.0,Under 30
+534,discharged,"(59,74]",MALE,Inpatient Visit,True,14,26,No,No,Yes,No,No,No,No,No,No,Yes,3,Never,Yes,Yes,No,No,Yes,No,No,1.0,0.0,0.0,Under 30
+535,discharged,"[18,59]",MALE,Inpatient Visit,True,22,41,No,No,No,Yes,No,No,No,No,No,No,2,Never,No,No,No,No,No,No,No,0.0,0.0,0.0,Under 30
+536,discharged,"[18,59]",MALE,Inpatient Visit,False,0,10,No,No,No,No,No,No,No,No,No,No,12,Never,Yes,Yes,No,No,No,No,Yes,0.0,1.0,1.0,Above 35
+537,discharged,"[18,59]",MALE,Inpatient Visit,True,6,11,No,No,No,No,No,No,No,No,No,No,8,Former,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1.0,0.0,0.0,Under 30
+538,discharged,"[18,59]",FEMALE,Inpatient Visit,False,0,6,No,No,No,No,No,No,No,No,No,No,6,Never,Yes,Yes,No,No,Yes,No,Yes,0.0,1.0,1.0,Under 30
+539,discharged,"[18,59]",MALE,Inpatient Visit,True,19,26,No,No,No,No,No,No,No,No,No,No,9,Never,Yes,Yes,No,No,No,No,Yes,1.0,1.0,0.0,Under 30
+540,discharged,"[18,59]",MALE,Inpatient Visit,True,0,16,No,No,No,Yes,No,No,No,No,No,No,7,Never,Yes,Yes,Yes,Yes,Yes,Yes,Yes,0.0,0.0,1.0,Under 30
+541,discharged,"[18,59]",MALE,Inpatient Visit,False,0,5,No,No,No,No,No,No,No,No,No,No,7,Never,Yes,Yes,Yes,No,No,No,Yes,0.0,1.0,1.0,Under 30
+542,discharged,"[18,59]",MALE,Inpatient Visit,False,0,11,No,No,No,No,No,No,No,No,No,Yes,8,Never,Yes,No,No,No,Yes,No,Yes,0.0,1.0,0.0,Above 35
+543,discharged,"[18,59]",MALE,Inpatient Visit,True,4,15,No,No,No,Yes,No,No,No,No,No,No,15,Former,Yes,Yes,No,No,No,Yes,Yes,0.0,0.0,0.0,Under 30
+544,discharged,"[18,59]",MALE,Inpatient Visit,False,0,9,No,No,No,No,No,No,No,No,No,No,7,Never,Yes,Yes,No,No,No,No,Yes,1.0,0.0,0.0,Under 30
+545,discharged,"(59,74]",MALE,Inpatient Visit,False,0,11,No,No,Yes,No,No,No,No,No,No,No,7,Former,Yes,Yes,No,No,No,No,Yes,1.0,1.0,0.0,Above 35
+546,discharged,"[18,59]",FEMALE,Inpatient Visit,True,0,7,No,No,No,Yes,No,No,No,No,No,No,7,Never,Yes,Yes,Yes,Yes,No,Yes,Yes,0.0,0.0,0.0,Under 30
+547,discharged,"(59,74]",FEMALE,Inpatient Visit,False,0,7,No,No,Yes,No,No,No,No,No,Yes,No,7,Former,Yes,Yes,Yes,Yes,Yes,Yes,Yes,0.0,0.0,0.0,Under 30
+548,discharged,"(59,74]",MALE,Emergency Room Visit,False,0,2,No,No,Yes,Yes,No,No,No,No,No,No,6,Former,Yes,Yes,No,No,No,No,No,0.0,0.0,0.0,Under 30
+549,discharged,"(74,90]",MALE,Inpatient Visit,False,0,7,No,No,Yes,No,Yes,No,No,No,No,No,3,Never,No,No,No,No,Yes,No,Yes,0.0,0.0,0.0,Under 30
+550,discharged,"[18,59]",FEMALE,Inpatient Visit,True,0,6,No,No,No,No,No,No,No,No,Yes,No,21,Never,Yes,Yes,No,No,Yes,No,Yes,1.0,0.0,0.0,Above 35
+551,discharged,"[18,59]",FEMALE,Inpatient Visit,False,0,30,No,No,Yes,No,No,No,No,No,No,No,3,Former,No,Yes,Yes,Yes,No,Yes,No,0.0,0.0,0.0,Between 30 and 35
+552,discharged,"[18,59]",MALE,Inpatient Visit,False,0,10,No,No,No,Yes,No,No,No,No,No,No,8,Never,Yes,Yes,No,No,Yes,Yes,Yes,0.0,0.0,0.0,Between 30 and 35
+553,discharged,"[18,59]",FEMALE,Inpatient Visit,False,0,11,No,No,No,No,No,No,No,No,No,No,7,Never,No,Yes,No,No,No,No,Yes,0.0,0.0,0.0,Under 30
+554,discharged,"(74,90]",FEMALE,Inpatient Visit,False,0,8,No,Yes,No,No,Yes,No,No,No,No,No,7,Never,Yes,Yes,No,No,Yes,No,Yes,1.0,0.0,0.0,Under 30
+555,discharged,"[18,59]",MALE,Inpatient Visit,False,0,11,No,No,No,No,No,No,No,No,No,Yes,5,Never,Yes,Yes,Yes,Yes,No,No,Yes,1.0,0.0,0.0,Above 35
+556,discharged,"(74,90]",MALE,Inpatient Visit,False,0,7,No,No,No,No,No,No,No,No,No,No,7,Never,Yes,Yes,Yes,No,No,No,Yes,1.0,0.0,0.0,Under 30
+557,deceased,"(59,74]",MALE,Inpatient Visit,True,30,31,No,No,No,No,No,No,No,No,No,No,7,Former,Yes,Yes,No,No,No,No,Yes,0.0,0.0,0.0,Under 30
+558,discharged,"[18,59]",FEMALE,Inpatient Visit,True,40,71,No,Yes,No,No,No,No,No,No,No,No,30,Former,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1.0,1.0,1.0,Under 30
+559,discharged,"[18,59]",FEMALE,Inpatient Visit,False,0,10,No,No,Yes,Yes,No,No,No,No,No,Yes,5,Never,Yes,Yes,Yes,Yes,Yes,No,Yes,1.0,0.0,0.0,Above 35
+560,discharged,"(74,90]",MALE,Inpatient Visit,False,0,3,No,No,Yes,Yes,No,No,No,No,No,Yes,7,Never,Yes,Yes,No,No,No,No,No,0.0,0.0,1.0,Above 35
+561,discharged,"[18,59]",MALE,Inpatient Visit,False,0,10,No,No,No,Yes,No,No,No,No,No,No,4,Never,Yes,Yes,Yes,No,Yes,No,Yes,0.0,0.0,0.0,Between 30 and 35
+562,discharged,"[18,59]",MALE,Inpatient Visit,False,0,4,No,No,No,No,No,No,No,No,No,Yes,7,Never,Yes,Yes,Yes,No,Yes,No,Yes,1.0,0.0,1.0,Between 30 and 35
+563,discharged,"[18,59]",MALE,Inpatient Visit,False,0,18,No,No,No,No,No,No,No,No,No,No,4,Never,Yes,Yes,No,No,No,No,Yes,1.0,0.0,0.0,Under 30
+564,discharged,"[18,59]",MALE,Inpatient Visit,False,0,5,No,No,No,Yes,No,No,No,No,Yes,No,9,Never,Yes,Yes,No,No,No,No,Yes,1.0,1.0,1.0,Under 30
+565,discharged,"[18,59]",FEMALE,Emergency Room Visit,False,0,2,No,No,Yes,No,No,No,No,No,No,No,2,Never,Yes,Yes,Yes,No,No,No,No,0.0,0.0,0.0,Under 30
+566,discharged,"(59,74]",FEMALE,Inpatient Visit,False,0,8,No,No,Yes,Yes,No,No,No,No,No,No,3,Never,Yes,Yes,Yes,No,No,No,Yes,0.0,1.0,1.0,Under 30
+567,discharged,"(74,90]",MALE,Inpatient Visit,False,0,5,No,No,Yes,No,No,No,No,No,No,Yes,7,Former,No,Yes,No,No,No,No,Yes,0.0,0.0,0.0,Under 30
+568,discharged,"[18,59]",MALE,Inpatient Visit,False,0,4,No,No,Yes,Yes,No,No,No,No,No,No,10,Never,Yes,Yes,Yes,Yes,No,No,Yes,0.0,0.0,0.0,Under 30
+569,discharged,"[18,59]",MALE,Inpatient Visit,False,0,5,No,No,No,No,No,No,No,No,No,No,28,Never,Yes,Yes,Yes,Yes,Yes,No,Yes,0.0,0.0,0.0,Above 35
+570,discharged,"[18,59]",MALE,Inpatient Visit,False,12,23,No,No,No,No,No,No,No,No,No,No,6,Never,Yes,Yes,Yes,Yes,No,No,Yes,1.0,0.0,1.0,Under 30
+571,discharged,"[18,59]",MALE,Inpatient Visit,False,0,8,No,No,No,No,No,No,No,No,No,Yes,3,Never,Yes,Yes,No,No,Yes,Yes,Yes,1.0,0.0,1.0,Under 30
+572,discharged,"[18,59]",MALE,Inpatient Visit,True,13,20,No,No,No,Yes,No,No,No,No,No,No,4,Never,Yes,No,No,No,No,No,Yes,0.0,0.0,0.0,Under 30
+573,discharged,"(59,74]",MALE,Inpatient Visit,False,0,8,No,No,Yes,No,No,No,No,No,No,No,8,Never,Yes,Yes,No,No,Yes,Yes,Yes,1.0,0.0,1.0,Under 30
+574,discharged,"(74,90]",FEMALE,Inpatient Visit,False,0,6,No,No,Yes,No,No,No,No,No,No,Yes,6,Never,Yes,No,Yes,No,Yes,Yes,Yes,0.0,0.0,0.0,Under 30
+575,discharged,"(59,74]",MALE,Inpatient Visit,False,0,10,No,No,No,No,No,No,No,No,No,No,18,Never,Yes,Yes,Yes,No,No,No,Yes,1.0,1.0,1.0,Under 30
+576,discharged,"[18,59]",MALE,Emergency Room Visit,False,0,1,No,No,No,No,No,No,No,No,No,No,5,Never,Yes,No,Yes,No,No,Yes,Yes,0.0,0.0,0.0,Under 30
+577,discharged,"[18,59]",MALE,Inpatient Visit,False,0,6,No,No,No,No,No,No,No,No,No,No,3,Never,Yes,Yes,Yes,Yes,Yes,No,Yes,1.0,0.0,0.0,Above 35
+578,discharged,"[18,59]",MALE,Inpatient Visit,False,9,16,No,No,No,No,No,No,No,No,Yes,No,4,Never,Yes,Yes,No,No,No,No,Yes,1.0,0.0,0.0,Under 30
+579,discharged,"[18,59]",MALE,Inpatient Visit,True,11,30,No,Yes,Yes,Yes,No,No,No,No,No,Yes,14,Never,Yes,Yes,No,No,No,No,Yes,0.0,0.0,1.0,Between 30 and 35
+580,discharged,"[18,59]",MALE,Inpatient Visit,False,0,13,No,No,Yes,Yes,Yes,No,No,No,No,No,6,Never,Yes,Yes,Yes,Yes,No,No,Yes,1.0,0.0,0.0,Under 30
+581,discharged,"[18,59]",FEMALE,Inpatient Visit,False,0,10,No,No,No,No,No,No,No,No,No,No,5,Never,Yes,Yes,Yes,No,Yes,Yes,Yes,1.0,0.0,0.0,Above 35
+582,discharged,"(59,74]",MALE,Inpatient Visit,False,0,7,No,No,Yes,Yes,No,No,No,No,No,Yes,18,Former,Yes,Yes,No,No,Yes,No,Yes,0.0,0.0,1.0,Between 30 and 35
+583,discharged,"[18,59]",MALE,Inpatient Visit,True,0,11,No,No,No,No,No,No,No,No,No,Yes,14,Current,Yes,Yes,No,No,No,No,Yes,0.0,1.0,1.0,Under 30
+584,discharged,"[18,59]",MALE,Inpatient Visit,True,39,63,No,Yes,Yes,Yes,No,No,No,No,No,No,6,Never,Yes,Yes,No,No,Yes,No,Yes,1.0,1.0,1.0,Under 30
+585,discharged,"[18,59]",FEMALE,Inpatient Visit,False,0,7,No,No,No,No,No,No,No,No,No,No,14,Never,Yes,Yes,Yes,Yes,Yes,No,Yes,1.0,0.0,0.0,Between 30 and 35
+586,discharged,"[18,59]",MALE,Inpatient Visit,False,0,18,No,No,Yes,No,No,No,No,No,No,No,11,Former,Yes,No,No,No,Yes,No,Yes,1.0,0.0,1.0,Under 30
+587,discharged,"[18,59]",MALE,Inpatient Visit,False,0,9,No,No,No,No,No,No,No,No,No,No,4,Never,Yes,Yes,Yes,No,Yes,Yes,Yes,1.0,0.0,0.0,Between 30 and 35
+588,discharged,"[18,59]",FEMALE,Inpatient Visit,False,0,3,No,No,No,No,No,No,No,No,No,No,12,Never,Yes,Yes,No,No,No,No,Yes,0.0,0.0,0.0,Between 30 and 35
+589,discharged,"[18,59]",MALE,Inpatient Visit,False,0,6,No,No,No,No,No,Yes,No,No,No,No,14,Never,Yes,Yes,Yes,No,Yes,No,Yes,0.0,0.0,0.0,Between 30 and 35
+590,discharged,"(59,74]",MALE,Inpatient Visit,False,0,10,No,No,Yes,No,No,No,No,No,No,No,21,Never,Yes,Yes,Yes,Yes,No,No,Yes,0.0,0.0,1.0,Under 30
+591,discharged,"[18,59]",MALE,Inpatient Visit,True,3,18,No,Yes,No,No,No,No,No,No,No,No,14,Former,Yes,Yes,Yes,No,Yes,No,Yes,1.0,1.0,1.0,Above 35
+592,discharged,"[18,59]",MALE,Inpatient Visit,False,0,15,No,No,No,No,No,No,No,No,No,No,8,Former,Yes,Yes,Yes,Yes,Yes,No,Yes,1.0,1.0,1.0,Under 30
+593,discharged,"[18,59]",MALE,Inpatient Visit,False,0,5,No,No,No,No,No,No,No,No,No,No,10,Never,Yes,No,No,No,No,No,Yes,0.0,0.0,0.0,Under 30
+594,discharged,"[18,59]",MALE,Inpatient Visit,True,27,38,No,No,Yes,Yes,No,No,No,No,No,Yes,13,Never,Yes,Yes,No,No,Yes,No,Yes,0.0,0.0,1.0,Under 30
+595,discharged,"(74,90]",MALE,Inpatient Visit,False,0,6,No,No,No,No,Yes,No,No,No,No,No,14,Never,Yes,Yes,No,No,No,No,No,0.0,1.0,0.0,Under 30
+596,discharged,"[18,59]",MALE,Emergency Room Visit,False,0,1,No,No,No,No,No,No,No,No,No,No,5,Never,Yes,Yes,No,No,Yes,No,Yes,1.0,0.0,0.0,Under 30
+597,discharged,"(59,74]",MALE,Inpatient Visit,False,0,13,No,No,Yes,No,No,No,No,No,No,No,11,Never,Yes,Yes,No,No,No,No,No,0.0,0.0,0.0,Between 30 and 35
+598,discharged,"[18,59]",FEMALE,Inpatient Visit,False,0,3,No,No,No,No,No,No,No,No,No,Yes,5,Never,Yes,Yes,No,No,Yes,No,Yes,1.0,0.0,0.0,Between 30 and 35
+599,discharged,"[18,59]",FEMALE,Emergency Room Visit,False,0,1,No,No,No,No,No,No,No,No,No,No,7,Never,Yes,Yes,No,No,No,No,Yes,0.0,0.0,0.0,Under 30
+600,discharged,"[18,59]",MALE,Inpatient Visit,False,0,12,No,No,No,No,No,No,No,No,No,No,15,Never,Yes,Yes,Yes,Yes,Yes,No,Yes,1.0,0.0,0.0,Under 30
+601,discharged,"[18,59]",FEMALE,Inpatient Visit,True,0,12,No,No,Yes,Yes,No,No,No,No,No,No,21,Never,Yes,Yes,No,No,No,No,Yes,0.0,1.0,1.0,Under 30
+602,discharged,"(59,74]",MALE,Inpatient Visit,False,0,10,Yes,No,Yes,No,No,No,No,No,Yes,No,8,Never,Yes,Yes,Yes,No,Yes,No,Yes,0.0,0.0,0.0,Under 30
+603,discharged,"[18,59]",MALE,Inpatient Visit,False,0,6,No,No,No,No,No,No,No,No,No,No,2,Never,Yes,Yes,No,No,No,No,Yes,1.0,1.0,1.0,Between 30 and 35
+604,deceased,"[18,59]",MALE,Inpatient Visit,True,16,19,Yes,Yes,Yes,No,No,No,No,No,No,Yes,7,Never,Yes,Yes,Yes,Yes,Yes,No,Yes,0.0,0.0,0.0,Under 30
+605,deceased,"(59,74]",MALE,Inpatient Visit,True,24,26,No,Yes,Yes,No,No,No,No,No,No,No,4,Never,No,Yes,No,No,No,No,No,0.0,1.0,1.0,Under 30
+606,discharged,"(59,74]",MALE,Inpatient Visit,False,0,20,No,No,Yes,No,No,No,No,No,No,Yes,21,Never,Yes,Yes,No,No,Yes,No,Yes,0.0,0.0,1.0,Under 30
+607,discharged,"[18,59]",MALE,Inpatient Visit,False,0,4,No,No,No,No,No,No,No,No,No,No,12,Never,Yes,Yes,No,No,No,No,Yes,0.0,0.0,0.0,Between 30 and 35
+608,discharged,"[18,59]",MALE,Inpatient Visit,True,0,14,No,No,No,No,No,No,No,No,No,No,7,Never,Yes,Yes,Yes,No,Yes,No,Yes,0.0,0.0,0.0,Under 30
+609,discharged,"[18,59]",MALE,Inpatient Visit,True,0,20,No,No,Yes,No,No,No,No,No,Yes,No,7,Never,Yes,Yes,No,No,Yes,No,Yes,0.0,0.0,0.0,Under 30
+610,discharged,"(59,74]",MALE,Inpatient Visit,False,0,10,No,No,Yes,Yes,No,No,Yes,No,No,No,14,Never,Yes,Yes,No,No,Yes,No,No,0.0,1.0,1.0,Under 30
+611,discharged,"[18,59]",FEMALE,Emergency Room Visit,False,0,1,No,No,No,No,No,No,No,No,No,No,3,Never,Yes,No,No,No,No,No,Yes,0.0,0.0,0.0,Under 30
+612,discharged,"[18,59]",MALE,Inpatient Visit,False,0,6,No,No,No,Yes,No,No,No,No,No,No,7,Former,Yes,Yes,No,No,Yes,No,Yes,0.0,0.0,0.0,Above 35
+613,discharged,"[18,59]",MALE,Inpatient Visit,False,0,4,No,No,Yes,Yes,No,No,No,No,No,No,9,Former,No,Yes,Yes,Yes,No,No,Yes,1.0,0.0,0.0,Between 30 and 35
+614,discharged,"(74,90]",FEMALE,Inpatient Visit,False,0,14,No,No,Yes,No,No,No,Yes,No,No,No,14,Former,Yes,Yes,Yes,No,No,No,Yes,0.0,1.0,1.0,Under 30
+615,discharged,"(74,90]",FEMALE,Inpatient Visit,False,0,8,No,No,Yes,No,No,No,No,No,No,No,3,Never,Yes,No,No,No,No,No,Yes,0.0,0.0,0.0,Under 30
+616,discharged,"[18,59]",FEMALE,Emergency Room Visit,False,0,2,No,No,Yes,Yes,No,Yes,No,No,No,No,4,Never,No,No,No,No,Yes,Yes,Yes,0.0,0.0,0.0,Under 30
+617,discharged,"[18,59]",MALE,Inpatient Visit,False,0,6,No,No,No,No,No,No,No,No,No,No,14,Never,Yes,Yes,Yes,No,Yes,No,Yes,1.0,0.0,1.0,Under 30
+618,discharged,"[18,59]",MALE,Emergency Room Visit,False,0,2,No,No,No,No,No,No,No,No,No,No,3,Never,Yes,Yes,No,No,No,Yes,Yes,0.0,0.0,0.0,Under 30
+619,discharged,"[18,59]",MALE,Inpatient Visit,True,40,96,No,No,No,No,No,No,No,No,No,No,8,Never,Yes,Yes,Yes,Yes,No,No,Yes,0.0,1.0,1.0,Above 35
+620,discharged,"[18,59]",FEMALE,Inpatient Visit,True,0,12,No,No,No,No,No,No,No,No,No,No,14,Never,Yes,Yes,No,No,Yes,No,Yes,1.0,0.0,1.0,Under 30
+621,discharged,"[18,59]",MALE,Inpatient Visit,True,40,83,No,Yes,Yes,No,No,No,No,No,No,No,5,Never,Yes,Yes,No,No,Yes,Yes,Yes,1.0,1.0,1.0,Under 30
+622,discharged,"(59,74]",FEMALE,Inpatient Visit,False,0,6,No,No,No,No,No,No,No,No,No,Yes,7,Never,Yes,Yes,Yes,No,Yes,No,Yes,0.0,0.0,0.0,Under 30
+623,discharged,"[18,59]",MALE,Inpatient Visit,True,3,35,No,No,No,No,No,No,No,No,No,No,7,Never,Yes,Yes,No,No,No,No,Yes,0.0,1.0,1.0,Between 30 and 35
+624,deceased,"(59,74]",MALE,Inpatient Visit,True,34,36,No,Yes,Yes,Yes,Yes,No,No,No,No,No,3,Former,Yes,Yes,No,No,No,No,Yes,0.0,1.0,1.0,Under 30
+625,discharged,"(74,90]",FEMALE,Inpatient Visit,False,0,5,No,No,No,No,No,No,No,No,No,No,3,Never,Yes,No,No,No,No,No,Yes,1.0,0.0,0.0,Under 30
+626,discharged,"[18,59]",MALE,Inpatient Visit,False,0,12,No,No,No,No,No,No,No,No,Yes,No,7,Never,Yes,Yes,No,Yes,Yes,Yes,Yes,0.0,0.0,0.0,Above 35
+627,discharged,"[18,59]",MALE,Emergency Room Visit,False,0,1,No,No,Yes,No,No,No,No,No,No,No,10,Never,Yes,Yes,Yes,Yes,Yes,No,Yes,1.0,0.0,0.0,Under 30
+628,discharged,"[18,59]",MALE,Inpatient Visit,False,0,11,No,No,Yes,Yes,No,No,No,No,No,No,7,Never,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1.0,1.0,1.0,Between 30 and 35
+629,discharged,"[18,59]",MALE,Inpatient Visit,False,0,5,No,No,No,No,No,No,No,No,Yes,No,2,Never,Yes,Yes,Yes,Yes,Yes,No,Yes,0.0,0.0,0.0,Under 30
+630,discharged,"[18,59]",FEMALE,Emergency Room Visit,False,0,1,No,No,Yes,Yes,No,No,No,No,No,No,22,Never,Yes,No,No,Yes,No,Yes,Yes,0.0,0.0,0.0,Under 30
+631,discharged,"[18,59]",MALE,Inpatient Visit,False,0,6,No,No,No,No,No,No,No,No,No,No,9,Never,Yes,Yes,No,No,Yes,No,Yes,1.0,0.0,0.0,Under 30
+632,discharged,"[18,59]",MALE,Inpatient Visit,False,0,6,No,No,No,No,No,No,No,No,No,No,15,Never,Yes,Yes,No,No,No,No,Yes,1.0,0.0,0.0,Under 30
+633,deceased,"[18,59]",MALE,Inpatient Visit,True,40,60,Yes,Yes,No,No,No,No,No,No,No,No,10,Never,Yes,Yes,No,No,Yes,No,Yes,1.0,1.0,1.0,Under 30
+634,deceased,"(59,74]",FEMALE,Inpatient Visit,True,40,45,Yes,Yes,Yes,No,No,No,No,No,Yes,No,5,Never,Yes,Yes,No,No,No,No,Yes,0.0,1.0,0.0,Under 30
+635,discharged,"(59,74]",MALE,Inpatient Visit,False,0,11,No,No,Yes,No,No,No,No,No,No,No,7,Never,Yes,Yes,No,No,Yes,No,Yes,0.0,0.0,0.0,Under 30
+636,discharged,"[18,59]",MALE,Inpatient Visit,False,0,13,No,No,No,Yes,No,No,No,No,No,No,7,Never,Yes,Yes,No,No,No,No,Yes,1.0,0.0,1.0,Under 30
+637,discharged,"(74,90]",MALE,Inpatient Visit,False,0,17,No,Yes,No,No,No,No,Yes,No,No,Yes,1,Former,No,Yes,No,No,No,No,Yes,0.0,0.0,1.0,Under 30
+638,discharged,"(74,90]",FEMALE,Inpatient Visit,False,0,11,No,No,Yes,No,No,No,No,No,No,Yes,5,Never,Yes,No,Yes,Yes,Yes,Yes,Yes,0.0,0.0,0.0,Under 30
+639,deceased,"(74,90]",MALE,Inpatient Visit,True,11,13,No,Yes,Yes,No,No,No,No,No,Yes,No,7,Never,No,Yes,No,No,No,No,No,0.0,1.0,1.0,Under 30
+640,discharged,"[18,59]",FEMALE,Inpatient Visit,False,0,10,No,No,No,No,No,No,No,No,Yes,No,7,Former,Yes,Yes,No,No,Yes,No,Yes,0.0,0.0,0.0,Above 35
+641,discharged,"[18,59]",MALE,Inpatient Visit,False,0,20,No,No,No,No,No,No,No,No,No,Yes,7,Current,Yes,Yes,No,No,Yes,No,Yes,1.0,1.0,0.0,Between 30 and 35
+642,discharged,"[18,59]",FEMALE,Emergency Room Visit,False,0,2,No,No,No,No,No,No,No,No,No,No,2,Never,No,No,Yes,Yes,No,Yes,No,0.0,0.0,0.0,Under 30
+643,discharged,"(59,74]",FEMALE,Inpatient Visit,False,0,5,No,No,No,No,No,No,No,No,No,No,5,Former,Yes,Yes,No,No,No,No,Yes,0.0,0.0,0.0,Under 30
+644,discharged,"[18,59]",FEMALE,Inpatient Visit,False,0,10,No,Yes,Yes,Yes,No,Yes,No,No,No,No,5,Never,No,No,No,No,No,No,No,0.0,0.0,0.0,Under 30
+645,discharged,"[18,59]",FEMALE,Inpatient Visit,False,0,2,No,No,Yes,No,No,No,No,No,No,No,19,Never,Yes,Yes,Yes,No,Yes,No,Yes,0.0,0.0,0.0,Between 30 and 35
+646,discharged,"(59,74]",MALE,Inpatient Visit,False,0,10,No,No,No,Yes,No,No,No,No,No,No,7,Never,Yes,Yes,Yes,No,Yes,Yes,Yes,0.0,1.0,1.0,Under 30
+647,discharged,"(59,74]",MALE,Inpatient Visit,False,0,5,No,No,Yes,Yes,No,No,No,No,No,No,3,Never,Yes,Yes,No,No,Yes,No,Yes,0.0,0.0,0.0,Under 30
+648,discharged,"[18,59]",MALE,Inpatient Visit,False,0,5,No,No,No,No,No,No,No,No,No,No,2,Never,No,Yes,No,No,No,No,Yes,1.0,0.0,0.0,Under 30
+649,deceased,"(59,74]",MALE,Inpatient Visit,True,3,3,Yes,Yes,No,No,No,No,No,No,No,Yes,10,Current,No,Yes,No,Yes,No,No,Yes,0.0,0.0,0.0,Under 30
+650,discharged,"[18,59]",FEMALE,Inpatient Visit,False,0,18,Yes,No,No,No,No,No,No,No,No,No,6,Never,No,No,Yes,Yes,No,No,Yes,0.0,0.0,0.0,Under 30
+651,discharged,"[18,59]",MALE,Inpatient Visit,False,0,13,No,No,No,No,No,No,No,No,No,No,9,Former,Yes,Yes,Yes,No,Yes,No,Yes,1.0,0.0,1.0,Between 30 and 35
+652,discharged,"[18,59]",MALE,Inpatient Visit,False,0,11,No,No,Yes,No,No,No,No,No,No,No,10,Never,Yes,Yes,No,No,Yes,No,Yes,0.0,1.0,0.0,Under 30
+653,discharged,"[18,59]",MALE,Inpatient Visit,False,0,5,No,No,No,No,No,No,No,No,No,No,12,Never,Yes,Yes,Yes,Yes,Yes,No,Yes,0.0,0.0,1.0,Under 30
+654,discharged,"(59,74]",FEMALE,Inpatient Visit,False,0,3,No,No,Yes,No,No,No,No,No,Yes,Yes,5,Never,Yes,Yes,No,No,Yes,No,Yes,0.0,0.0,0.0,Under 30
+655,deceased,"(59,74]",FEMALE,Inpatient Visit,True,9,25,No,Yes,Yes,No,Yes,No,Yes,No,No,No,8,Never,Yes,Yes,Yes,No,Yes,No,Yes,0.0,0.0,0.0,Under 30
+656,discharged,"[18,59]",MALE,Inpatient Visit,False,0,3,No,No,No,Yes,No,No,No,No,No,No,14,Never,Yes,Yes,Yes,No,No,No,Yes,0.0,0.0,0.0,Under 30
+657,discharged,"[18,59]",MALE,Inpatient Visit,False,0,7,No,No,Yes,No,No,No,No,No,No,No,3,Never,Yes,Yes,No,No,No,No,Yes,1.0,1.0,0.0,Under 30
+658,discharged,"[18,59]",FEMALE,Inpatient Visit,True,12,22,No,No,No,Yes,No,No,No,No,No,Yes,7,Never,Yes,Yes,Yes,No,Yes,No,Yes,1.0,0.0,1.0,Between 30 and 35
+659,deceased,"(74,90]",MALE,Inpatient Visit,True,27,30,No,Yes,Yes,No,No,No,No,No,No,No,21,Never,Yes,Yes,No,No,No,No,Yes,0.0,0.0,1.0,Under 30
+660,discharged,"(74,90]",FEMALE,Inpatient Visit,False,0,12,No,No,Yes,No,No,No,No,No,No,No,1,Never,Yes,Yes,No,No,Yes,No,Yes,0.0,0.0,0.0,Between 30 and 35
+661,discharged,"[18,59]",FEMALE,Inpatient Visit,False,0,8,No,No,No,No,No,No,No,No,No,No,7,Never,Yes,Yes,No,No,No,No,Yes,0.0,0.0,0.0,Above 35
+662,discharged,"[18,59]",MALE,Inpatient Visit,False,0,5,No,No,No,No,No,No,No,No,No,No,1,Never,Yes,Yes,No,No,No,No,No,0.0,0.0,1.0,Under 30
+663,deceased,"(74,90]",FEMALE,Inpatient Visit,True,8,26,No,Yes,Yes,Yes,No,No,No,No,No,No,7,Never,Yes,Yes,No,No,Yes,No,Yes,0.0,0.0,1.0,Between 30 and 35
+664,discharged,"[18,59]",MALE,Inpatient Visit,False,0,19,No,No,Yes,No,Yes,No,No,No,No,No,1,Former,No,No,No,No,No,No,No,0.0,0.0,0.0,Under 30
+665,discharged,"[18,59]",MALE,Inpatient Visit,False,0,10,No,No,No,No,No,No,No,No,Yes,Yes,14,Never,Yes,Yes,No,No,No,No,Yes,0.0,1.0,0.0,Between 30 and 35
+666,discharged,"[18,59]",FEMALE,Emergency Room Visit,False,0,1,No,No,No,No,No,No,No,No,No,No,12,Never,Yes,Yes,No,No,No,No,Yes,0.0,0.0,1.0,Under 30
+667,deceased,"[18,59]",MALE,Inpatient Visit,True,14,15,No,Yes,No,No,No,No,No,No,No,No,11,Never,Yes,Yes,No,No,Yes,No,Yes,0.0,0.0,1.0,Above 35
+668,discharged,"(59,74]",FEMALE,Inpatient Visit,False,0,4,No,No,No,No,No,No,No,No,No,No,14,Never,Yes,Yes,Yes,No,Yes,No,Yes,0.0,0.0,0.0,Between 30 and 35
+669,discharged,"[18,59]",MALE,Inpatient Visit,True,10,30,No,Yes,No,No,No,No,No,No,No,No,7,Never,Yes,Yes,No,No,No,No,Yes,1.0,1.0,1.0,Under 30
+670,discharged,"[18,59]",MALE,Inpatient Visit,False,0,15,No,No,No,No,No,No,No,No,Yes,No,10,Former,Yes,Yes,No,No,No,No,Yes,1.0,0.0,1.0,Above 35
+671,discharged,"[18,59]",MALE,Emergency Room Visit,False,0,1,No,No,No,No,No,No,No,No,No,No,14,Never,Yes,Yes,No,No,No,No,Yes,0.0,0.0,0.0,Under 30
+672,discharged,"[18,59]",FEMALE,Emergency Room Visit,False,0,2,No,No,No,No,No,No,No,No,No,Yes,7,Never,Yes,Yes,Yes,Yes,Yes,Yes,No,0.0,0.0,0.0,Under 30
+673,discharged,"[18,59]",FEMALE,Inpatient Visit,True,0,9,No,No,No,No,No,No,No,No,No,Yes,10,Never,No,Yes,No,No,Yes,No,Yes,0.0,1.0,1.0,Under 30
+674,deceased,"[18,59]",MALE,Inpatient Visit,True,20,28,Yes,Yes,Yes,No,No,No,No,No,No,No,5,Never,Yes,No,Yes,No,Yes,No,Yes,1.0,0.0,0.0,Above 35
+675,discharged,"[18,59]",FEMALE,Inpatient Visit,False,0,10,No,No,No,No,No,No,No,No,Yes,No,11,Never,Yes,Yes,No,No,Yes,No,Yes,1.0,0.0,0.0,Under 30
+676,discharged,"(59,74]",FEMALE,Inpatient Visit,False,0,14,No,No,No,No,No,No,No,No,No,No,5,Never,Yes,Yes,No,No,No,No,No,0.0,0.0,0.0,Under 30
+677,discharged,"[18,59]",FEMALE,Inpatient Visit,False,0,4,No,No,No,No,No,No,Yes,No,No,No,14,Never,Yes,Yes,No,No,No,No,Yes,0.0,0.0,0.0,Under 30
+678,discharged,"(59,74]",MALE,Inpatient Visit,False,0,10,No,No,Yes,Yes,No,No,No,No,No,No,14,Never,Yes,Yes,No,No,No,No,Yes,1.0,0.0,0.0,Under 30
+679,discharged,"[18,59]",FEMALE,Inpatient Visit,False,0,2,No,No,No,No,No,No,No,No,No,No,7,Never,Yes,Yes,Yes,No,No,No,No,0.0,1.0,0.0,Under 30
+680,discharged,"[18,59]",MALE,Inpatient Visit,False,0,10,No,No,Yes,No,No,No,No,No,No,No,7,Never,Yes,Yes,Yes,Yes,Yes,No,Yes,1.0,0.0,0.0,Between 30 and 35
+681,discharged,"[18,59]",MALE,Inpatient Visit,False,0,3,No,No,Yes,Yes,No,No,No,No,No,No,7,Former,Yes,Yes,No,No,No,No,No,0.0,0.0,0.0,Under 30
+682,discharged,"(59,74]",MALE,Inpatient Visit,False,0,7,No,No,No,No,No,No,No,No,No,No,4,Never,Yes,No,No,No,No,No,No,0.0,0.0,0.0,Under 30
+683,discharged,"(59,74]",FEMALE,Inpatient Visit,True,0,14,No,No,Yes,No,No,No,No,No,No,No,14,Never,No,Yes,No,No,Yes,No,No,0.0,0.0,0.0,Under 30
+684,discharged,"[18,59]",MALE,Inpatient Visit,True,29,42,No,Yes,No,No,No,No,No,No,No,No,4,Never,Yes,Yes,No,No,No,No,No,0.0,0.0,1.0,Under 30
+685,discharged,"[18,59]",FEMALE,Emergency Room Visit,False,0,1,No,No,No,No,No,No,No,No,No,No,10,Never,Yes,Yes,No,No,Yes,No,Yes,0.0,0.0,0.0,Under 30
+686,discharged,"[18,59]",MALE,Inpatient Visit,False,0,9,No,No,Yes,No,No,No,No,No,No,No,9,Current,Yes,Yes,No,No,Yes,No,Yes,0.0,1.0,0.0,Above 35
+687,deceased,"(59,74]",MALE,Inpatient Visit,False,0,3,No,No,Yes,No,No,No,No,No,No,Yes,4,Never,Yes,Yes,No,No,No,No,No,0.0,0.0,0.0,Between 30 and 35
+688,discharged,"[18,59]",FEMALE,Inpatient Visit,True,40,73,No,No,No,No,No,No,No,No,Yes,Yes,7,Former,Yes,Yes,No,No,Yes,Yes,Yes,1.0,0.0,0.0,Between 30 and 35
+689,discharged,"[18,59]",MALE,Inpatient Visit,False,0,6,No,No,Yes,No,No,No,No,No,Yes,No,10,Never,Yes,Yes,Yes,No,Yes,No,Yes,0.0,0.0,0.0,Under 30
+690,discharged,"(59,74]",FEMALE,Inpatient Visit,False,0,6,Yes,No,No,No,No,No,No,No,No,No,14,Never,Yes,Yes,Yes,Yes,No,No,Yes,1.0,0.0,0.0,Under 30
+691,discharged,"(59,74]",MALE,Inpatient Visit,False,0,7,No,No,No,No,No,No,No,No,No,No,7,Never,Yes,No,Yes,Yes,No,No,No,1.0,0.0,0.0,Under 30
+692,discharged,"[18,59]",MALE,Emergency Room Visit,False,0,1,No,No,No,No,No,No,No,No,No,No,12,Never,Yes,No,Yes,Yes,Yes,No,Yes,0.0,0.0,0.0,Under 30
+693,discharged,"[18,59]",MALE,Inpatient Visit,False,0,5,No,No,Yes,No,No,No,No,No,No,No,7,Never,Yes,Yes,No,No,Yes,No,No,0.0,0.0,0.0,Above 35
+694,discharged,"[18,59]",MALE,Inpatient Visit,False,0,8,No,No,No,No,No,No,No,No,No,No,10,Never,Yes,Yes,No,No,Yes,No,Yes,1.0,1.0,0.0,Between 30 and 35
+695,deceased,"[18,59]",MALE,Inpatient Visit,True,30,41,No,No,No,No,No,No,No,No,No,No,12,Never,Yes,Yes,Yes,No,Yes,No,Yes,0.0,1.0,0.0,Under 30
+696,discharged,"(59,74]",MALE,Inpatient Visit,False,0,6,No,No,No,No,No,No,No,No,No,No,14,Never,Yes,Yes,No,No,Yes,No,Yes,1.0,0.0,0.0,Under 30
+697,discharged,"[18,59]",MALE,Inpatient Visit,True,35,77,Yes,Yes,No,No,No,No,No,No,No,Yes,14,Never,Yes,Yes,No,No,Yes,No,Yes,1.0,0.0,0.0,Under 30
+698,discharged,"(59,74]",MALE,Inpatient Visit,False,0,9,No,No,Yes,No,Yes,No,No,No,No,No,15,Never,Yes,Yes,No,No,No,No,Yes,0.0,1.0,1.0,Under 30
+699,discharged,"(59,74]",MALE,Inpatient Visit,False,0,3,No,No,No,No,No,No,No,No,Yes,No,4,Former,Yes,Yes,Yes,No,Yes,No,Yes,0.0,0.0,0.0,Under 30
+700,discharged,"[18,59]",MALE,Inpatient Visit,False,0,10,No,No,No,No,No,No,No,No,No,No,7,Never,Yes,Yes,No,No,No,No,Yes,0.0,0.0,0.0,Under 30
+701,deceased,"(74,90]",FEMALE,Inpatient Visit,False,0,15,No,No,Yes,Yes,No,No,No,No,No,No,7,Never,Yes,Yes,Yes,Yes,Yes,No,Yes,0.0,1.0,0.0,Under 30
+702,discharged,"[18,59]",MALE,Emergency Room Visit,False,0,1,No,No,No,No,No,No,No,No,No,No,10,Never,Yes,No,Yes,No,Yes,No,Yes,0.0,0.0,1.0,Under 30
+703,discharged,"[18,59]",FEMALE,Inpatient Visit,False,0,10,No,No,Yes,No,No,No,No,No,Yes,No,8,Never,Yes,Yes,Yes,Yes,No,No,Yes,1.0,0.0,0.0,Between 30 and 35
+704,discharged,"[18,59]",MALE,Inpatient Visit,False,0,9,No,No,No,No,No,No,No,No,No,No,10,Never,Yes,Yes,No,No,No,No,Yes,1.0,1.0,0.0,Between 30 and 35
+705,discharged,"[18,59]",MALE,Inpatient Visit,True,0,38,No,No,No,No,No,No,No,No,No,No,12,Never,Yes,Yes,Yes,No,Yes,No,Yes,1.0,1.0,1.0,Under 30
+706,discharged,"[18,59]",MALE,Inpatient Visit,False,0,2,No,No,No,No,No,No,No,No,No,No,14,Never,Yes,Yes,Yes,Yes,Yes,No,Yes,0.0,0.0,0.0,Under 30
+707,discharged,"[18,59]",MALE,Inpatient Visit,False,0,9,No,No,No,No,No,No,No,No,No,No,5,Never,Yes,Yes,Yes,Yes,Yes,No,Yes,0.0,0.0,1.0,Between 30 and 35
+708,discharged,"[18,59]",MALE,Inpatient Visit,False,0,7,No,No,No,No,No,No,No,No,No,No,7,Never,Yes,Yes,No,No,No,No,Yes,1.0,1.0,0.0,Under 30
+709,discharged,"[18,59]",MALE,Inpatient Visit,False,0,5,No,No,No,No,No,No,No,No,No,No,3,Never,No,No,No,No,Yes,Yes,Yes,0.0,0.0,0.0,Under 30
+710,discharged,"[18,59]",MALE,Inpatient Visit,False,0,12,No,No,Yes,No,No,No,No,No,No,No,7,Former,No,No,No,No,No,No,No,1.0,0.0,0.0,Above 35
+711,discharged,"(59,74]",FEMALE,Inpatient Visit,False,0,11,No,Yes,Yes,Yes,No,No,No,No,No,No,10,Never,Yes,Yes,No,No,No,No,Yes,1.0,0.0,0.0,Under 30
+712,discharged,"(59,74]",MALE,Inpatient Visit,True,0,11,No,No,No,Yes,No,No,Yes,No,No,No,14,Current,Yes,Yes,Yes,No,No,No,No,0.0,1.0,0.0,Above 35
+713,discharged,"[18,59]",MALE,Inpatient Visit,False,0,12,No,No,No,Yes,No,No,No,No,No,Yes,3,Never,Yes,Yes,No,No,No,No,Yes,1.0,0.0,0.0,Above 35
+714,discharged,"[18,59]",MALE,Inpatient Visit,False,0,5,No,No,No,No,No,No,No,No,No,No,12,Former,Yes,No,No,No,Yes,Yes,Yes,1.0,0.0,0.0,Under 30
+715,discharged,"(59,74]",FEMALE,Emergency Room Visit,False,0,1,No,No,No,No,No,No,No,No,No,No,1,Never,No,No,Yes,Yes,Yes,Yes,Yes,0.0,0.0,0.0,Under 30
+716,discharged,"(59,74]",MALE,Inpatient Visit,False,0,4,No,No,Yes,No,Yes,No,No,No,No,No,10,Former,Yes,Yes,No,No,Yes,Yes,Yes,0.0,0.0,0.0,Under 30
+717,discharged,"[18,59]",MALE,Inpatient Visit,False,0,29,No,No,No,No,No,No,No,No,No,No,4,Former,Yes,Yes,No,No,No,No,Yes,0.0,0.0,1.0,Under 30
+718,discharged,"(59,74]",MALE,Inpatient Visit,True,0,5,No,No,No,Yes,No,No,No,No,No,No,3,Never,No,Yes,No,No,No,No,No,0.0,0.0,1.0,Between 30 and 35
+719,discharged,"[18,59]",MALE,Inpatient Visit,False,0,9,No,No,No,No,No,No,No,No,No,No,9,Never,Yes,Yes,No,No,No,No,Yes,1.0,0.0,0.0,Under 30
+720,discharged,"(74,90]",FEMALE,Inpatient Visit,False,0,6,No,No,Yes,No,No,No,No,No,No,No,3,Former,No,No,Yes,Yes,Yes,Yes,Yes,0.0,0.0,0.0,Between 30 and 35
+721,deceased,"(59,74]",MALE,Inpatient Visit,True,0,18,No,Yes,Yes,No,No,No,No,No,No,No,14,Never,Yes,Yes,No,No,Yes,No,No,0.0,1.0,1.0,Under 30
+722,discharged,"[18,59]",MALE,Inpatient Visit,False,0,10,No,No,No,No,No,No,No,No,No,No,13,Never,Yes,Yes,Yes,Yes,No,No,Yes,1.0,0.0,0.0,Under 30
+723,deceased,"(74,90]",FEMALE,Inpatient Visit,False,0,11,No,Yes,No,No,No,No,Yes,No,Yes,Yes,3,Never,Yes,Yes,No,No,Yes,No,Yes,0.0,0.0,0.0,Under 30
+724,discharged,"[18,59]",MALE,Inpatient Visit,True,21,40,No,Yes,Yes,Yes,No,No,No,No,No,No,7,Former,No,Yes,Yes,No,No,Yes,No,0.0,1.0,1.0,Under 30
+725,discharged,"[18,59]",MALE,Inpatient Visit,False,0,5,No,No,Yes,No,No,No,No,No,No,Yes,6,Never,Yes,Yes,No,No,Yes,No,Yes,0.0,0.0,0.0,Above 35
+726,discharged,"(59,74]",MALE,Inpatient Visit,True,18,34,No,No,Yes,Yes,No,No,No,No,No,No,2,Never,Yes,Yes,No,No,Yes,No,Yes,1.0,1.0,0.0,Above 35
+727,discharged,"[18,59]",MALE,Inpatient Visit,False,0,9,No,No,No,No,No,No,No,No,No,No,21,Never,Yes,Yes,No,No,No,No,Yes,0.0,0.0,1.0,Between 30 and 35
+728,discharged,"[18,59]",FEMALE,Inpatient Visit,False,0,3,No,No,Yes,No,No,No,No,No,No,Yes,8,Never,No,Yes,Yes,No,No,No,Yes,1.0,0.0,0.0,Under 30
+729,discharged,"[18,59]",MALE,Inpatient Visit,False,0,9,No,No,Yes,No,No,No,No,No,No,Yes,14,Never,Yes,Yes,No,No,No,No,Yes,1.0,1.0,0.0,Under 30
+730,discharged,"(59,74]",FEMALE,Inpatient Visit,False,0,5,No,No,No,No,No,No,No,No,No,Yes,14,Never,Yes,Yes,No,No,No,No,Yes,0.0,0.0,0.0,Under 30
+731,discharged,"(59,74]",MALE,Inpatient Visit,False,0,18,No,No,No,No,No,No,No,No,No,Yes,14,Former,No,Yes,Yes,No,Yes,No,Yes,0.0,0.0,1.0,Under 30
+732,discharged,"[18,59]",FEMALE,Inpatient Visit,False,0,8,No,No,Yes,Yes,No,No,No,No,No,No,5,Never,Yes,Yes,No,No,No,No,Yes,1.0,0.0,0.0,Under 30
+733,discharged,"[18,59]",MALE,Emergency Room Visit,False,0,1,No,No,No,No,No,No,No,No,No,No,10,Never,Yes,Yes,Yes,Yes,Yes,No,Yes,0.0,0.0,0.0,Under 30
+734,discharged,"(74,90]",FEMALE,Inpatient Visit,False,0,9,No,No,Yes,No,Yes,No,No,Yes,No,No,3,Former,Yes,Yes,No,No,No,No,No,0.0,0.0,0.0,Above 35
+735,discharged,"[18,59]",MALE,Inpatient Visit,False,0,13,No,No,Yes,No,No,No,No,No,No,No,10,Never,Yes,Yes,Yes,Yes,No,No,Yes,0.0,1.0,1.0,Under 30
+736,discharged,"[18,59]",FEMALE,Inpatient Visit,False,0,4,No,No,No,No,No,No,No,No,No,No,7,Never,Yes,Yes,Yes,No,Yes,No,Yes,0.0,1.0,1.0,Above 35
+737,discharged,"(59,74]",MALE,Inpatient Visit,False,0,18,No,Yes,Yes,No,Yes,Yes,No,No,No,Yes,4,Never,No,Yes,No,No,No,No,Yes,1.0,0.0,0.0,Between 30 and 35
+738,deceased,"(74,90]",MALE,Inpatient Visit,True,27,33,Yes,Yes,Yes,No,No,No,No,No,No,No,9,Former,Yes,Yes,No,No,Yes,No,Yes,1.0,1.0,1.0,Under 30
+739,discharged,"[18,59]",MALE,Inpatient Visit,False,0,5,No,No,No,No,No,No,No,No,No,No,10,Never,Yes,Yes,Yes,No,Yes,No,Yes,0.0,0.0,0.0,Under 30
+740,discharged,"(59,74]",MALE,Emergency Room Visit,False,0,1,No,No,No,Yes,No,No,No,No,No,No,1,Never,No,No,No,No,No,No,Yes,0.0,0.0,0.0,Under 30
+741,discharged,"[18,59]",FEMALE,Inpatient Visit,False,0,2,No,No,No,No,No,No,No,No,No,No,21,Never,No,Yes,No,No,No,No,Yes,0.0,0.0,0.0,Above 35
+742,discharged,"[18,59]",MALE,Inpatient Visit,False,0,4,No,No,No,No,No,No,No,No,No,Yes,6,Former,Yes,Yes,No,No,Yes,No,Yes,1.0,0.0,0.0,Between 30 and 35
+743,discharged,"[18,59]",MALE,Inpatient Visit,False,0,3,No,No,No,No,No,No,No,No,No,No,10,Never,No,No,No,No,No,No,No,0.0,0.0,0.0,Between 30 and 35
+744,discharged,"(59,74]",MALE,Inpatient Visit,True,9,50,No,Yes,No,No,No,No,No,No,No,Yes,5,Never,Yes,Yes,No,No,No,No,No,0.0,1.0,1.0,Under 30
+745,discharged,"(59,74]",FEMALE,Inpatient Visit,False,0,5,No,No,No,No,No,No,No,No,No,Yes,3,Never,Yes,Yes,No,No,Yes,No,No,0.0,0.0,1.0,Under 30
+746,deceased,"[18,59]",MALE,Inpatient Visit,True,34,48,Yes,Yes,No,No,No,No,No,No,No,No,5,Never,Yes,Yes,No,No,No,No,Yes,0.0,1.0,1.0,Above 35
+747,deceased,"(59,74]",FEMALE,Inpatient Visit,True,21,38,Yes,Yes,No,No,No,No,No,No,No,No,6,Former,Yes,Yes,No,No,No,No,Yes,0.0,1.0,1.0,Above 35
+748,discharged,"[18,59]",MALE,Inpatient Visit,False,0,14,No,No,No,No,No,No,No,No,No,No,9,Never,Yes,Yes,No,No,No,No,Yes,1.0,1.0,0.0,Under 30
+749,discharged,"[18,59]",MALE,Inpatient Visit,False,0,13,No,No,Yes,Yes,No,No,No,No,No,No,14,Never,No,Yes,No,No,No,No,No,0.0,1.0,1.0,Under 30
