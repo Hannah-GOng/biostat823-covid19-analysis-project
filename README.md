@@ -1,7 +1,7 @@
 # biostat823-covid19-analysis-project
 
 ## Team Members
-Gong Han (MIDS, Duke University)
+Gong Han (Data Science, Duke University)
 
 Junrong Lin (Biostatistics, Duke University)
 
@@ -22,6 +22,7 @@ The dataset we use come from the several sources:
    - Vaccination data: [click here](https://data.cdc.gov/Vaccinations/COVID-19-Vaccinations-in-the-United-States-Jurisdi/unsk-b7fc)
    - Estimation data for cases: [click here](https://www.cdc.gov/coronavirus/2019-ncov/science/forecasting/forecasting-us.html)
    - ML model for predicting death or discharge: [click here](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=89096912#89096912bcab02c187174a288dbcbf95d26179e8)
+   - Death Cases Forecasting Data: [click here](https://www.cdc.gov/coronavirus/2019-ncov/science/forecasting/forecasting-us.html)
 
 ## Data science plan
    - Exploratory data analysis includes dealing with the imbalanced data and missing data     
