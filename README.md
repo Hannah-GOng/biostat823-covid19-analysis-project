@@ -5,7 +5,7 @@ Gong Han (MIDS, Duke University)
 
 Junrong Lin (Biostatistics, Duke University)
 
-Yili Lin (Biostatistics, Duke University)
+Lucy Lin (Biostatistics, Duke University)
 
 Jenny Zhuo (Biostatistics, Duke University)
 
