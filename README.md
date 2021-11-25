@@ -1,5 +1,7 @@
 # biostat823-covid19-analysis-project
 
+The deployed website link: [click here](https://our-823-project.herokuapp.com/apps/home) 
+
 ## Team Members
 Gong Han (Data Science, Duke University)
 
